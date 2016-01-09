@@ -1,0 +1,436 @@
+
+0               SN.node[0].MobilityManager               initial location(x:y:z) is 0:0:0
+0               SN.node[1].MobilityManager               initial location(x:y:z) is 27.4407:29.6422:0
+0               SN.node[2].MobilityManager               initial location(x:y:z) is 42.2133:30.1382:0
+0               SN.node[3].MobilityManager               initial location(x:y:z) is 27.2442:42.3626:0
+0               SN.node[4].MobilityManager               initial location(x:y:z) is 31.1782:32.2947:0
+0               SN.node[5].MobilityManager               initial location(x:y:z) is 21.8794:14.8767:0
+0               SN.node[6].MobilityManager               initial location(x:y:z) is 2.83565:48.1831:0
+0               SN.node[7].MobilityManager               initial location(x:y:z) is 19.1721:23.8833:0
+0               SN.node[8].MobilityManager               initial location(x:y:z) is 40.6084:26.4447:0
+0               SN.node[9].MobilityManager               initial location(x:y:z) is 28.4022:19.6392:0
+0               SN.node[10].MobilityManager              initial location(x:y:z) is 41.8039:3.5518:0
+0               SN.node[11].MobilityManager              initial location(x:y:z) is 4.35646:32.4086:0
+0               SN.node[12].MobilityManager              initial location(x:y:z) is 18.4121:41.631:0
+0               SN.node[13].MobilityManager              initial location(x:y:z) is 38.9078:7.01754:0
+0               SN.node[14].MobilityManager              initial location(x:y:z) is 43.5044:48.9309:0
+0               SN.node[15].MobilityManager              initial location(x:y:z) is 39.9579:40.0455:0
+0               SN.node[16].MobilityManager              initial location(x:y:z) is 26.0239:39.0265:0
+0               SN.node[17].MobilityManager              initial location(x:y:z) is 5.91372:36.0316:0
+0               SN.node[18].MobilityManager              initial location(x:y:z) is 29.101:7.16766:0
+0               SN.node[19].MobilityManager              initial location(x:y:z) is 47.2334:37.9308:0
+0.001493810629  SN.node[0].Application                   Not sending packets
+25902.950410299697SN.node[14].ResourceManager              Energy level below 30%. Current Energy: 1430.98
+25903.159136590213SN.node[13].ResourceManager              Energy level below 30%. Current Energy: 1430.97
+25903.194222416414SN.node[12].ResourceManager              Energy level below 30%. Current Energy: 1430.97
+25903.224074590213SN.node[0].Application                   General recharge request from: 13
+25903.259160416414SN.node[0].Application                   General recharge request from: 12
+25903.595653410263SN.node[6].ResourceManager               Energy level below 30%. Current Energy: 1430.94
+25903.725529410262SN.node[0].Application                   General recharge request from: 6
+25903.851511632722SN.node[11].ResourceManager              Energy level below 30%. Current Energy: 1430.98
+25903.909763018649SN.node[10].ResourceManager              Energy level below 30%. Current Energy: 1430.98
+25903.916449632722SN.node[0].Application                   General recharge request from: 11
+25904.039639018648SN.node[0].Application                   General recharge request from: 10
+25904.08289353142SN.node[2].ResourceManager               Energy level below 30%. Current Energy: 1430.97
+25904.212769531419SN.node[0].Application                   General recharge request from: 2
+25904.346616555412SN.node[17].ResourceManager              Energy level below 30%. Current Energy: 1430.95
+25904.358580862045SN.node[16].ResourceManager              Energy level below 30%. Current Energy: 1430.95
+25904.476492555411SN.node[0].Application                   General recharge request from: 17
+25904.488456862044SN.node[0].Application                   General recharge request from: 16
+25905.039597004144SN.node[5].ResourceManager               Energy level below 30%. Current Energy: 1430.96
+25905.169473004143SN.node[0].Application                   General recharge request from: 5
+26105.680310020004SN.node[9].ResourceManager               Energy level below 30%. Current Energy: 1430.94
+26105.73145654252SN.node[7].ResourceManager               Energy level below 30%. Current Energy: 1431
+26105.745248020004SN.node[0].Application                   General recharge request from: 9
+26105.79639454252SN.node[0].Application                   General recharge request from: 7
+26105.916289265598SN.node[4].ResourceManager               Energy level below 30%. Current Energy: 1430.99
+26105.981227265598SN.node[0].Application                   General recharge request from: 4
+26106.180545324379SN.node[15].ResourceManager              Energy level below 30%. Current Energy: 1430.97
+26106.24516375371SN.node[18].ResourceManager              Energy level below 30%. Current Energy: 1430.96
+26106.31010175371SN.node[0].Application                   General recharge request from: 18
+26106.343056044472SN.node[19].ResourceManager              Energy level below 30%. Current Energy: 1430.96
+26106.609945697442SN.node[8].ResourceManager               Energy level below 30%. Current Energy: 1430.94
+26106.663237648134SN.node[3].ResourceManager               Energy level below 30%. Current Energy: 1430.94
+26106.674883697442SN.node[0].Application                   General recharge request from: 8
+26106.728175648134SN.node[0].Application                   General recharge request from: 3
+26203.289306932275SN.node[0].Application                    Current recharge sequence: 
+26203.289306932275SN.node[0].Application                   5, 
+26203.289306932275SN.node[0].Application                   18, 
+26203.289306932275SN.node[0].Application                   7, 
+26203.289306932275SN.node[0].Application                   11, 
+26203.289306932275SN.node[0].Application                   9, 
+26203.289306932275SN.node[0].Application                   17, 
+26203.289306932275SN.node[0].Application                   13, 
+26203.289306932275SN.node[0].Application                   10, 
+26203.289306932275SN.node[0].Application                   4, 
+26203.289306932275SN.node[0].Application                   12, 
+26203.289306932275SN.node[0].Application                   16, 
+26203.289306932275SN.node[0].Application                   6, 
+26203.289306932275SN.node[0].Application                   8, 
+26203.289306932275SN.node[0].Application                   3, 
+26203.289306932275SN.node[0].Application                   2, 
+26253.289357655952SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 21.8794 : 14
+26358.549434667363SN.node[5].Application                   Battery recharge completed.
+26408.484537391041SN.node[0].Application                    Current recharge sequence: 
+26408.484537391041SN.node[0].Application                   18, 
+26408.484537391041SN.node[0].Application                   7, 
+26408.484537391041SN.node[0].Application                   11, 
+26408.484537391041SN.node[0].Application                   9, 
+26408.484537391041SN.node[0].Application                   17, 
+26408.484537391041SN.node[0].Application                   13, 
+26408.484537391041SN.node[0].Application                   10, 
+26408.484537391041SN.node[0].Application                   4, 
+26408.484537391041SN.node[0].Application                   12, 
+26408.484537391041SN.node[0].Application                   16, 
+26408.484537391041SN.node[0].Application                   6, 
+26408.484537391041SN.node[0].Application                   8, 
+26408.484537391041SN.node[0].Application                   3, 
+26408.484537391041SN.node[0].Application                   2, 
+26458.484588114718SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 29.101 : 7
+26564.535853098304SN.node[18].Application                  Battery recharge completed.
+26614.470955821982SN.node[0].Application                    Current recharge sequence: 
+26614.470955821982SN.node[0].Application                   7, 
+26614.470955821982SN.node[0].Application                   11, 
+26614.470955821982SN.node[0].Application                   9, 
+26614.470955821982SN.node[0].Application                   17, 
+26614.470955821982SN.node[0].Application                   13, 
+26614.470955821982SN.node[0].Application                   10, 
+26614.470955821982SN.node[0].Application                   4, 
+26614.470955821982SN.node[0].Application                   12, 
+26614.470955821982SN.node[0].Application                   16, 
+26614.470955821982SN.node[0].Application                   6, 
+26614.470955821982SN.node[0].Application                   8, 
+26614.470955821982SN.node[0].Application                   3, 
+26614.470955821982SN.node[0].Application                   2, 
+26664.471006545659SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 19.1721 : 23
+26770.524612813389SN.node[7].Application                   Battery recharge completed.
+26820.459715537067SN.node[0].Application                    Current recharge sequence: 
+26820.459715537067SN.node[0].Application                   11, 
+26820.459715537067SN.node[0].Application                   9, 
+26820.459715537067SN.node[0].Application                   17, 
+26820.459715537067SN.node[0].Application                   13, 
+26820.459715537067SN.node[0].Application                   10, 
+26820.459715537067SN.node[0].Application                   4, 
+26820.459715537067SN.node[0].Application                   12, 
+26820.459715537067SN.node[0].Application                   16, 
+26820.459715537067SN.node[0].Application                   6, 
+26820.459715537067SN.node[0].Application                   8, 
+26820.459715537067SN.node[0].Application                   3, 
+26820.459715537067SN.node[0].Application                   2, 
+26870.459766260744SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 4.35646 : 32
+26976.98385867784SN.node[11].Application                  Battery recharge completed.
+27026.918961401518SN.node[0].Application                    Current recharge sequence: 
+27026.918961401518SN.node[0].Application                   9, 
+27026.918961401518SN.node[0].Application                   17, 
+27026.918961401518SN.node[0].Application                   13, 
+27026.918961401518SN.node[0].Application                   10, 
+27026.918961401518SN.node[0].Application                   4, 
+27026.918961401518SN.node[0].Application                   12, 
+27026.918961401518SN.node[0].Application                   16, 
+27026.918961401518SN.node[0].Application                   6, 
+27026.918961401518SN.node[0].Application                   8, 
+27026.918961401518SN.node[0].Application                   3, 
+27026.918961401518SN.node[0].Application                   2, 
+27076.919012125195SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 28.4022 : 19
+27183.818354323683SN.node[9].Application                   Battery recharge completed.
+27233.753457047361SN.node[0].Application                    Current recharge sequence: 
+27233.753457047361SN.node[0].Application                   17, 
+27233.753457047361SN.node[0].Application                   13, 
+27233.753457047361SN.node[0].Application                   10, 
+27233.753457047361SN.node[0].Application                   4, 
+27233.753457047361SN.node[0].Application                   12, 
+27233.753457047361SN.node[0].Application                   16, 
+27233.753457047361SN.node[0].Application                   6, 
+27233.753457047361SN.node[0].Application                   8, 
+27233.753457047361SN.node[0].Application                   3, 
+27233.753457047361SN.node[0].Application                   2, 
+27283.753507771038SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 5.91372 : 36
+27391.115062679945SN.node[17].Application                  Battery recharge completed.
+27441.050165403623SN.node[0].Application                    Current recharge sequence: 
+27441.050165403623SN.node[0].Application                   13, 
+27441.050165403623SN.node[0].Application                   10, 
+27441.050165403623SN.node[0].Application                   4, 
+27441.050165403623SN.node[0].Application                   12, 
+27441.050165403623SN.node[0].Application                   16, 
+27441.050165403623SN.node[0].Application                   6, 
+27441.050165403623SN.node[0].Application                   8, 
+27441.050165403623SN.node[0].Application                   3, 
+27441.050165403623SN.node[0].Application                   2, 
+27491.0502161273SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 38.9078 : 7
+27599.021776857413SN.node[13].Application                  Battery recharge completed.
+27648.956879581091SN.node[0].Application                    Current recharge sequence: 
+27648.956879581091SN.node[0].Application                   10, 
+27648.956879581091SN.node[0].Application                   4, 
+27648.956879581091SN.node[0].Application                   12, 
+27648.956879581091SN.node[0].Application                   16, 
+27648.956879581091SN.node[0].Application                   6, 
+27648.956879581091SN.node[0].Application                   8, 
+27648.956879581091SN.node[0].Application                   3, 
+27648.956879581091SN.node[0].Application                   2, 
+27698.956930304768SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 41.8039 : 3
+27807.404277368416SN.node[10].Application                  Battery recharge completed.
+27857.339380092094SN.node[0].Application                    Current recharge sequence: 
+27857.339380092094SN.node[0].Application                   4, 
+27857.339380092094SN.node[0].Application                   12, 
+27857.339380092094SN.node[0].Application                   16, 
+27857.339380092094SN.node[0].Application                   6, 
+27857.339380092094SN.node[0].Application                   8, 
+27857.339380092094SN.node[0].Application                   3, 
+27857.339380092094SN.node[0].Application                   2, 
+27907.339430815771SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 31.1782 : 32
+28016.339989781004SN.node[4].Application                   Battery recharge completed.
+28066.275092504682SN.node[0].Application                    Current recharge sequence: 
+28066.275092504682SN.node[0].Application                   12, 
+28066.275092504682SN.node[0].Application                   16, 
+28066.275092504682SN.node[0].Application                   6, 
+28066.275092504682SN.node[0].Application                   8, 
+28066.275092504682SN.node[0].Application                   3, 
+28066.275092504682SN.node[0].Application                   2, 
+28116.275143228359SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 18.4121 : 41
+28225.329093994742SN.node[12].Application                  Battery recharge completed.
+28275.26419671842SN.node[0].Application                    Current recharge sequence: 
+28275.26419671842SN.node[0].Application                   16, 
+28275.26419671842SN.node[0].Application                   6, 
+28275.26419671842SN.node[0].Application                   8, 
+28275.26419671842SN.node[0].Application                   3, 
+28275.26419671842SN.node[0].Application                   2, 
+28325.264247442097SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 26.0239 : 39
+28434.706389145275SN.node[16].Application                  Battery recharge completed.
+28484.641491868953SN.node[0].Application                    Current recharge sequence: 
+28484.641491868953SN.node[0].Application                   6, 
+28484.641491868953SN.node[0].Application                   8, 
+28484.641491868953SN.node[0].Application                   3, 
+28484.641491868953SN.node[0].Application                   2, 
+28534.64154259263SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 2.83565 : 48
+28644.323339088855SN.node[6].Application                   Battery recharge completed.
+28694.258441812533SN.node[0].Application                    Current recharge sequence: 
+28694.258441812533SN.node[0].Application                   8, 
+28694.258441812533SN.node[0].Application                   3, 
+28694.258441812533SN.node[0].Application                   2, 
+28744.25849253621SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 40.6084 : 26
+28853.96729606175SN.node[8].Application                   Battery recharge completed.
+28903.902398785428SN.node[0].Application                    Current recharge sequence: 
+28903.902398785428SN.node[0].Application                   3, 
+28903.902398785428SN.node[0].Application                   2, 
+28953.902449509105SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 27.2442 : 42
+29063.979989710563SN.node[3].Application                   Battery recharge completed.
+29113.915092434241SN.node[0].Application                    Current recharge sequence: 
+29113.915092434241SN.node[0].Application                   2, 
+29163.915143157918SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 42.2133 : 30
+29274.33773489709SN.node[2].Application                   Battery recharge completed.
+33303.559058484683SN.node[14].ResourceManager              Energy level below 10%. Current Energy: 476.942
+33563.932544159517SN.node[15].ResourceManager              Energy level below 10%. Current Energy: 476.968
+33564.349675376737SN.node[19].ResourceManager              Energy level below 10%. Current Energy: 476.999
+50000.007268507371SN.node[1].ResourceManager               Energy level below 30%. Current Energy: 1370
+50000.07221650737SN.node[0].Application                   General recharge request from: 1
+50300.137448849432SN.node[0].Application                    Current recharge sequence: 
+50300.137448849432SN.node[0].Application                   1, 
+50350.137499573109SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 27.4407 : 29
+50458.18751961503SN.node[1].Application                   Battery recharge completed.
+52263.103895782444SN.node[5].ResourceManager               Energy level below 30%. Current Energy: 1430.97
+52263.233771782443SN.node[0].Application                   General recharge request from: 5
+52563.299004124505SN.node[0].Application                    Current recharge sequence: 
+52563.299004124505SN.node[0].Application                   5, 
+52613.299054848182SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 21.8794 : 14
+52670.407432179086SN.node[18].ResourceManager              Energy level below 30%. Current Energy: 1430.97
+52670.472370179086SN.node[0].Application                   General recharge request from: 18
+52718.559131859593SN.node[5].Application                   Battery recharge completed.
+52768.494234583271SN.node[0].Application                    Current recharge sequence: 
+52768.494234583271SN.node[0].Application                   18, 
+52818.494285306948SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 29.101 : 7
+52876.306396281987SN.node[7].ResourceManager               Energy level below 30%. Current Energy: 1430.94
+52876.436272281986SN.node[0].Application                   General recharge request from: 7
+52880.623111421042SN.node[11].ResourceManager              Energy level below 30%. Current Energy: 1430.99
+52880.688049421042SN.node[0].Application                   General recharge request from: 11
+52924.545550290534SN.node[18].Application                  Battery recharge completed.
+52974.480653014212SN.node[0].Application                    Current recharge sequence: 
+52974.480653014212SN.node[0].Application                   7, 
+52974.480653014212SN.node[0].Application                   11, 
+53024.480703737889SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 19.1721 : 23
+53130.534310005619SN.node[7].Application                   Battery recharge completed.
+53180.469412729297SN.node[0].Application                    Current recharge sequence: 
+53180.469412729297SN.node[0].Application                   11, 
+53230.469463452974SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 4.35646 : 32
+53289.212859642254SN.node[9].ResourceManager               Energy level below 30%. Current Energy: 1430.94
+53289.277797642254SN.node[0].Application                   General recharge request from: 9
+53294.691844881272SN.node[17].ResourceManager              Energy level below 30%. Current Energy: 1430.95
+53294.821720881271SN.node[0].Application                   General recharge request from: 17
+53336.99355587007SN.node[11].Application                  Battery recharge completed.
+53386.928658593748SN.node[0].Application                    Current recharge sequence: 
+53386.928658593748SN.node[0].Application                   9, 
+53386.928658593748SN.node[0].Application                   17, 
+53436.928709317425SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 28.4022 : 19
+53501.153268183241SN.node[13].ResourceManager              Energy level below 30%. Current Energy: 1430.97
+53501.218206183241SN.node[0].Application                   General recharge request from: 13
+53543.828051515913SN.node[9].Application                   Battery recharge completed.
+53593.763154239591SN.node[0].Application                    Current recharge sequence: 
+53593.763154239591SN.node[0].Application                   17, 
+53593.763154239591SN.node[0].Application                   13, 
+53643.763204963268SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 5.91372 : 36
+53710.781183422842SN.node[10].ResourceManager              Energy level below 30%. Current Energy: 1430.98
+53710.911059422841SN.node[0].Application                   General recharge request from: 10
+53751.124759872175SN.node[17].Application                  Battery recharge completed.
+53801.059862595853SN.node[0].Application                    Current recharge sequence: 
+53801.059862595853SN.node[0].Application                   13, 
+53801.059862595853SN.node[0].Application                   10, 
+53851.05991331953SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 38.9078 : 7
+53959.031474049643SN.node[13].Application                  Battery recharge completed.
+54008.966576773321SN.node[0].Application                    Current recharge sequence: 
+54008.966576773321SN.node[0].Application                   10, 
+54058.966627496998SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 41.8039 : 3
+54121.721933028318SN.node[4].ResourceManager               Energy level below 30%. Current Energy: 1430.99
+54121.786871028318SN.node[0].Application                   General recharge request from: 4
+54128.244150470228SN.node[12].ResourceManager              Energy level below 30%. Current Energy: 1430.97
+54128.309088470228SN.node[0].Application                   General recharge request from: 12
+54167.413974560646SN.node[10].Application                  Battery recharge completed.
+54217.349077284324SN.node[0].Application                    Current recharge sequence: 
+54217.349077284324SN.node[0].Application                   4, 
+54217.349077284324SN.node[0].Application                   12, 
+54267.349128008001SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 31.1782 : 32
+54338.737955052527SN.node[16].ResourceManager              Energy level below 30%. Current Energy: 1430.95
+54338.867831052526SN.node[0].Application                   General recharge request from: 16
+54376.349686973234SN.node[4].Application                   Battery recharge completed.
+54426.284789696912SN.node[0].Application                    Current recharge sequence: 
+54426.284789696912SN.node[0].Application                   12, 
+54426.284789696912SN.node[0].Application                   16, 
+54476.284840420589SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 18.4121 : 41
+54547.027370396348SN.node[6].ResourceManager               Energy level below 30%. Current Energy: 1430.94
+54547.157246396347SN.node[0].Application                   General recharge request from: 6
+54585.338791186972SN.node[12].Application                  Battery recharge completed.
+54635.27389391065SN.node[0].Application                    Current recharge sequence: 
+54635.27389391065SN.node[0].Application                   16, 
+54635.27389391065SN.node[0].Application                   6, 
+54685.273944634327SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 26.0239 : 39
+54794.716086337505SN.node[16].Application                  Battery recharge completed.
+54844.651189061183SN.node[0].Application                    Current recharge sequence: 
+54844.651189061183SN.node[0].Application                   6, 
+54894.65123978486SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 2.83565 : 48
+54960.174931063178SN.node[8].ResourceManager               Energy level below 30%. Current Energy: 1430.94
+54960.239869063178SN.node[0].Application                   General recharge request from: 8
+55004.333036281085SN.node[6].Application                   Battery recharge completed.
+55054.268139004763SN.node[0].Application                    Current recharge sequence: 
+55054.268139004763SN.node[0].Application                   8, 
+55104.26818972844SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 40.6084 : 26
+55170.304080954143SN.node[3].ResourceManager               Energy level below 30%. Current Energy: 1430.94
+55170.369018954143SN.node[0].Application                   General recharge request from: 3
+55178.150757894098SN.node[2].ResourceManager               Energy level below 30%. Current Energy: 1430.97
+55178.280633894097SN.node[0].Application                   General recharge request from: 2
+55213.97699325398SN.node[8].Application                   Battery recharge completed.
+55263.912095977658SN.node[0].Application                    Current recharge sequence: 
+55263.912095977658SN.node[0].Application                   3, 
+55263.912095977658SN.node[0].Application                   2, 
+55313.912146701335SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 27.2442 : 42
+55423.989686902793SN.node[3].Application                   Battery recharge completed.
+55473.924789626471SN.node[0].Application                    Current recharge sequence: 
+55473.924789626471SN.node[0].Application                   2, 
+55523.924840350148SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 42.2133 : 30
+55634.34743208932SN.node[2].Application                   Battery recharge completed.
+78623.168351208094SN.node[5].ResourceManager               Energy level below 30%. Current Energy: 1430.97
+78623.298227208093SN.node[0].Application                   General recharge request from: 5
+78923.363459550155SN.node[0].Application                    Current recharge sequence: 
+78923.363459550155SN.node[0].Application                   5, 
+78973.363510273832SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 21.8794 : 14
+79030.568454453326SN.node[18].ResourceManager              Energy level below 30%. Current Energy: 1430.97
+79030.633392453326SN.node[0].Application                   General recharge request from: 18
+79078.623587285243SN.node[5].Application                   Battery recharge completed.
+79128.558690008921SN.node[0].Application                    Current recharge sequence: 
+79128.558690008921SN.node[0].Application                   18, 
+79178.558740732598SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 29.101 : 7
+79236.951789322593SN.node[7].ResourceManager               Energy level below 30%. Current Energy: 1430.94
+79237.081665322592SN.node[0].Application                   General recharge request from: 7
+79240.377063038047SN.node[11].ResourceManager              Energy level below 30%. Current Energy: 1430.99
+79240.442001038047SN.node[0].Application                   General recharge request from: 11
+79334.545108439862SN.node[0].Application                    Current recharge sequence: 
+79334.545108439862SN.node[0].Application                   7, 
+79334.545108439862SN.node[0].Application                   11, 
+79384.545159163539SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 19.1721 : 23
+79490.598765431269SN.node[7].Application                   Battery recharge completed.
+79540.533868154947SN.node[0].Application                    Current recharge sequence: 
+79540.533868154947SN.node[0].Application                   11, 
+79590.533918878624SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 4.35646 : 32
+79648.789888908104SN.node[9].ResourceManager               Energy level below 30%. Current Energy: 1430.94
+79648.854826908104SN.node[0].Application                   General recharge request from: 9
+79655.024090907912SN.node[17].ResourceManager              Energy level below 30%. Current Energy: 1430.95
+79655.153966907911SN.node[0].Application                   General recharge request from: 17
+79697.05801129572SN.node[11].Application                  Battery recharge completed.
+79746.993114019398SN.node[0].Application                    Current recharge sequence: 
+79746.993114019398SN.node[0].Application                   9, 
+79746.993114019398SN.node[0].Application                   17, 
+79796.993164743075SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 28.4022 : 19
+79861.192519711333SN.node[13].ResourceManager              Energy level below 30%. Current Energy: 1430.97
+79861.257457711333SN.node[0].Application                   General recharge request from: 13
+79903.892506941563SN.node[9].Application                   Battery recharge completed.
+79953.827609665241SN.node[0].Application                    Current recharge sequence: 
+79953.827609665241SN.node[0].Application                   17, 
+79953.827609665241SN.node[0].Application                   13, 
+80003.827660388918SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 5.91372 : 36
+80070.659294756482SN.node[10].ResourceManager              Energy level below 30%. Current Energy: 1430.98
+80070.789170756481SN.node[0].Application                   General recharge request from: 10
+80111.189215297825SN.node[17].Application                  Battery recharge completed.
+80161.124318021503SN.node[0].Application                    Current recharge sequence: 
+80161.124318021503SN.node[0].Application                   13, 
+80161.124318021503SN.node[0].Application                   10, 
+80211.12436874518SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 38.9078 : 7
+80319.095929475293SN.node[13].Application                  Battery recharge completed.
+80369.031032198971SN.node[0].Application                    Current recharge sequence: 
+80369.031032198971SN.node[0].Application                   10, 
+80419.031082922648SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 41.8039 : 3
+80481.539065009518SN.node[4].ResourceManager               Energy level below 30%. Current Energy: 1430.99
+80481.604003009518SN.node[0].Application                   General recharge request from: 4
+80488.356853418807SN.node[12].ResourceManager              Energy level below 30%. Current Energy: 1430.97
+80488.421791418807SN.node[0].Application                   General recharge request from: 12
+80527.478429986296SN.node[10].Application                  Battery recharge completed.
+80577.413532709974SN.node[0].Application                    Current recharge sequence: 
+80577.413532709974SN.node[0].Application                   4, 
+80577.413532709974SN.node[0].Application                   12, 
+80627.413583433651SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 31.1782 : 32
+80698.089644026534SN.node[16].ResourceManager              Energy level below 30%. Current Energy: 1430.95
+80698.219520026533SN.node[0].Application                   General recharge request from: 16
+80736.414142398884SN.node[4].Application                   Battery recharge completed.
+80786.349245122562SN.node[0].Application                    Current recharge sequence: 
+80786.349245122562SN.node[0].Application                   12, 
+80786.349245122562SN.node[0].Application                   16, 
+80836.349295846239SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 18.4121 : 41
+80907.584079182774SN.node[6].ResourceManager               Energy level below 30%. Current Energy: 1430.94
+80907.713955182773SN.node[0].Application                   General recharge request from: 6
+80995.3383493363SN.node[0].Application                    Current recharge sequence: 
+80995.3383493363SN.node[0].Application                   16, 
+80995.3383493363SN.node[0].Application                   6, 
+81045.338400059977SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 26.0239 : 39
+81154.780541763155SN.node[16].Application                  Battery recharge completed.
+81204.715644486833SN.node[0].Application                    Current recharge sequence: 
+81204.715644486833SN.node[0].Application                   6, 
+81254.71569521051SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 2.83565 : 48
+81319.691080137986SN.node[8].ResourceManager               Energy level below 30%. Current Energy: 1430.94
+81319.756018137986SN.node[0].Application                   General recharge request from: 8
+81364.397491706735SN.node[6].Application                   Battery recharge completed.
+81414.332594430413SN.node[0].Application                    Current recharge sequence: 
+81414.332594430413SN.node[0].Application                   8, 
+81464.33264515409SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 40.6084 : 26
+81529.88530067348SN.node[3].ResourceManager               Energy level below 30%. Current Energy: 1430.94
+81529.95023867348SN.node[0].Application                   General recharge request from: 3
+81538.211866885018SN.node[2].ResourceManager               Energy level below 30%. Current Energy: 1430.97
+81538.341742885017SN.node[0].Application                   General recharge request from: 2
+81574.04144867963SN.node[8].Application                   Battery recharge completed.
+81623.976551403308SN.node[0].Application                    Current recharge sequence: 
+81623.976551403308SN.node[0].Application                   3, 
+81623.976551403308SN.node[0].Application                   2, 
+81673.976602126985SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 27.2442 : 42
+81784.054142328443SN.node[3].Application                   Battery recharge completed.
+81833.989245052121SN.node[0].Application                    Current recharge sequence: 
+81833.989245052121SN.node[0].Application                   2, 
+81883.989295775798SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 42.2133 : 30
+81994.41188751497SN.node[2].Application                   Battery recharge completed.
+86488.614012272798SN.node[18].ResourceManager              Energy level below 10%. Current Energy: 476.946
+86488.678950272798SN.node[0].Application                   Emergency recharge request from: 18
+86788.74418261486SN.node[0].Application                    Current recharge sequence: 
+86788.74418261486SN.node[0].Application                   18, 
+86838.744233338537SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 29.101 : 7
+86944.795498322123SN.node[18].Application                  Battery recharge completed.
+87888.107773407407SN.node[12].ResourceManager              Energy level below 10%. Current Energy: 476.987
+87888.172711407407SN.node[0].Application                   Emergency recharge request from: 12
+88188.237943749469SN.node[0].Application                    Current recharge sequence: 
+88188.237943749469SN.node[0].Application                   12, 
+88238.237994473146SN.node[0].Application                   Arrived at nodes place. Vehicle's current position: 18.4121 : 41
+88347.291945239529SN.node[12].Application                  Battery recharge completed.
+100000.056862782146SN.node[1].ResourceManager               Energy level below 30%. Current Energy: 1370.01
