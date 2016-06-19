@@ -1,0 +1,1402 @@
+Postions:  [[ 123.    1.]
+ [ 140.   18.]
+ [ 199.    0.]
+ [ 174.   78.]
+ [ 150.   12.]
+ [ 115.   10.]
+ [ 147.   12.]
+ [ 147.   41.]
+ [ 171.   92.]
+ [ 184.   45.]
+ [ 151.   45.]
+ [ 109.   42.]
+ [ 192.   44.]
+ [ 127.   75.]
+ [ 182.   17.]
+ [ 181.   48.]
+ [ 105.   53.]
+ [ 146.    7.]
+ [ 138.   80.]
+ [ 188.   58.]
+ [ 156.   27.]
+ [ 150.    1.]
+ [ 196.   89.]
+ [ 142.   50.]
+ [ 148.   65.]
+ [ 175.   37.]
+ [ 131.   39.]
+ [  95.   10.]
+ [ 126.   66.]
+ [ 186.   92.]
+ [ 116.   33.]
+ [ 169.    8.]
+ [ 137.   12.]
+ [ 192.   31.]
+ [ 124.   19.]
+ [ 121.   63.]
+ [ 164.   50.]
+ [ 183.   22.]
+ [ 161.   45.]
+ [ 153.   68.]
+ [ 118.   83.]
+ [ 112.   87.]
+ [ 186.   82.]
+ [ 178.   82.]
+ [ 145.   30.]
+ [ 127.   13.]
+ [ 142.   93.]
+ [ 117.   37.]
+ [ 197.   28.]
+ [ 132.   19.]
+ [ 113.   27.]
+ [ 120.   21.]
+ [ 146.   31.]
+ [ 198.   74.]
+ [ 160.   80.]
+ [ 189.   54.]
+ [ 196.   69.]
+ [ 186.   74.]
+ [ 152.   47.]
+ [ 117.   31.]
+ [ 148.   84.]
+ [ 131.    7.]
+ [ 124.   91.]
+ [ 158.   39.]
+ [ 108.   58.]
+ [ 153.   23.]
+ [ 186.   42.]
+ [ 189.   36.]
+ [ 110.    7.]
+ [ 124.   93.]
+ [ 132.   71.]
+ [ 133.   92.]
+ [ 196.   60.]
+ [ 106.   51.]
+ [ 189.   15.]
+ [ 163.   37.]
+ [ 197.   20.]
+ [ 168.   89.]
+ [ 199.   81.]
+ [ 101.   16.]
+ [  93.   18.]
+ [ 160.   51.]
+ [ 142.   64.]
+ [ 157.   13.]
+ [ 123.   40.]
+ [  99.   25.]
+ [  97.   23.]
+ [ 123.   44.]
+ [ 189.   88.]
+ [  97.   41.]
+ [ 177.   13.]
+ [ 176.   14.]
+ [ 126.   86.]
+ [ 150.   17.]
+ [ 152.    6.]
+ [ 127.   55.]
+ [ 101.   39.]
+ [ 109.   29.]
+ [ 119.   52.]
+ [ 196.    6.]
+ [ 116.   36.]
+ [ 170.   11.]
+ [ 186.   38.]
+ [ 111.   51.]
+ [ 153.   57.]
+ [ 190.   72.]
+ [ 102.    2.]
+ [ 175.   55.]
+ [ 195.   22.]
+ [  93.   26.]
+ [ 148.   66.]
+ [ 163.   75.]
+ [ 105.   33.]
+ [ 157.   44.]
+ [ 113.   32.]
+ [ 134.   52.]
+ [ 198.   37.]
+ [ 131.   76.]
+ [ 114.   91.]
+ [  93.   26.]
+ [  87.   11.]
+ [  99.   92.]
+ [  87.   26.]
+ [  85.   15.]
+ [  97.   91.]]
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+Sun Jun 12 17:27:39 2016
+General request from  9  :  Sun Jun 12 17:46:29 2016
+Total number of dead nodes:  0
+MC starting to move from :  0 0  :  Sun Jun 12 17:46:29 2016
+General request from  42  :  Sun Jun 12 17:46:29 2016
+General request from  11  :  Sun Jun 12 17:46:29 2016
+General request from  104  :  Sun Jun 12 17:46:29 2016
+General request from  61  :  Sun Jun 12 17:46:29 2016
+General request from  77  :  Sun Jun 12 17:46:29 2016
+General request from  93  :  Sun Jun 12 17:46:29 2016
+General request from  88  :  Sun Jun 12 17:46:29 2016
+General request from  115  :  Sun Jun 12 17:46:29 2016
+General request from  91  :  Sun Jun 12 17:46:29 2016
+General request from  100  :  Sun Jun 12 17:46:29 2016
+General request from  122  :  Sun Jun 12 17:46:29 2016
+General request from  85  :  Sun Jun 12 17:46:30 2016
+MC has reached at node:  9.0 , Time taken:  0.789261697904
+Total number of dead nodes:  0
+MC starting to move from :  184.0 45.0  :  Sun Jun 12 17:46:42 2016
+MC has reached at node:  91.0 , Time taken:  0.133398421613
+9  recharged! , Battery:  18720.0  :  Sun Jun 12 17:46:42 2016
+Total number of dead nodes:  0
+MC starting to move from :  176.0 14.0  :  Sun Jun 12 17:46:54 2016
+MC has reached at node:  93.0 , Time taken:  0.109052102736
+91  recharged! , Battery:  18720.0  :  Sun Jun 12 17:46:54 2016
+Total number of dead nodes:  0
+MC starting to move from :  150.0 17.0  :  Sun Jun 12 17:47:06 2016
+MC has reached at node:  61.0 , Time taken:  0.0894621273066
+93  recharged! , Battery:  18720.0  :  Sun Jun 12 17:47:07 2016
+Total number of dead nodes:  0
+MC starting to move from :  131.0 7.0  :  Sun Jun 12 17:47:18 2016
+MC has reached at node:  100.0 , Time taken:  0.136040230978
+61  recharged! , Battery:  18720.0  :  Sun Jun 12 17:47:19 2016
+Total number of dead nodes:  0
+MC starting to move from :  116.0 36.0  :  Sun Jun 12 17:47:31 2016
+MC has reached at node:  11.0 , Time taken:  0.0384147685721
+100  recharged! , Battery:  18720.0  :  Sun Jun 12 17:47:32 2016
+Total distance covered:  427.762858257  @  Sun Jun 12 17:47:43 2016
+MC is returning to base!
+11  recharged! , Battery:  18720.0  :  Sun Jun 12 17:47:43 2016
+MC is fresh again. Battery Status:  40000  at:  0 0
+Total number of dead nodes:  0
+MC starting to move from :  0 0  :  Sun Jun 12 17:50:06 2016
+MC has reached at node:  122.0 , Time taken:  0.378341593155
+Total number of dead nodes:  0
+MC starting to move from :  87.0 26.0  :  Sun Jun 12 17:50:18 2016
+MC has reached at node:  85.0 , Time taken:  0.050173310745
+122  recharged! , Battery:  18720.0  :  Sun Jun 12 17:50:19 2016
+Total number of dead nodes:  0
+MC starting to move from :  99.0 25.0  :  Sun Jun 12 17:50:30 2016
+MC has reached at node:  115.0 , Time taken:  0.184183634211
+85  recharged! , Battery:  18720.0  :  Sun Jun 12 17:50:31 2016
+Total number of dead nodes:  0
+MC starting to move from :  134.0 52.0  :  Sun Jun 12 17:50:42 2016
+MC has reached at node:  104.0 , Time taken:  0.0818620112683
+115  recharged! , Battery:  18720.0  :  Sun Jun 12 17:50:43 2016
+Total number of dead nodes:  0
+MC starting to move from :  153.0 57.0  :  Sun Jun 12 17:50:54 2016
+104  recharged! , Battery:  18720.0  :  Sun Jun 12 17:50:55 2016
+MC has reached at node:  77.0 , Time taken:  0.147254975392
+Total number of dead nodes:  0
+MC starting to move from :  168.0 89.0  :  Sun Jun 12 17:51:07 2016
+MC has reached at node:  42.0 , Time taken:  0.0804716996493
+77  recharged! , Battery:  18720.0  :  Sun Jun 12 17:51:08 2016
+General request from  2  :  Sun Jun 12 17:51:09 2016
+General request from  22  :  Sun Jun 12 17:51:09 2016
+General request from  1  :  Sun Jun 12 17:51:09 2016
+General request from  38  :  Sun Jun 12 17:51:09 2016
+General request from  65  :  Sun Jun 12 17:51:09 2016
+General request from  21  :  Sun Jun 12 17:51:09 2016
+General request from  13  :  Sun Jun 12 17:51:09 2016
+General request from  67  :  Sun Jun 12 17:51:09 2016
+General request from  62  :  Sun Jun 12 17:51:09 2016
+General request from  20  :  Sun Jun 12 17:51:09 2016
+General request from  75  :  Sun Jun 12 17:51:10 2016
+General request from  68  :  Sun Jun 12 17:51:10 2016
+General request from  55  :  Sun Jun 12 17:51:10 2016
+General request from  29  :  Sun Jun 12 17:51:10 2016
+General request from  40  :  Sun Jun 12 17:51:10 2016
+General request from  39  :  Sun Jun 12 17:51:10 2016
+General request from  58  :  Sun Jun 12 17:51:10 2016
+General request from  26  :  Sun Jun 12 17:51:10 2016
+General request from  50  :  Sun Jun 12 17:51:10 2016
+General request from  109  :  Sun Jun 12 17:51:10 2016
+General request from  103  :  Sun Jun 12 17:51:10 2016
+General request from  117  :  Sun Jun 12 17:51:10 2016
+General request from  99  :  Sun Jun 12 17:51:10 2016
+General request from  114  :  Sun Jun 12 17:51:10 2016
+General request from  87  :  Sun Jun 12 17:51:10 2016
+General request from  120  :  Sun Jun 12 17:51:10 2016
+General request from  89  :  Sun Jun 12 17:51:10 2016
+General request from  108  :  Sun Jun 12 17:51:10 2016
+Total distance covered:  852.385007274  @  Sun Jun 12 17:51:19 2016
+MC is returning to base!
+42  recharged! , Battery:  18720.0  :  Sun Jun 12 17:51:20 2016
+MC is fresh again. Battery Status:  40000  at:  0 0
+Total number of dead nodes:  0
+MC starting to move from :  0 0  :  Sun Jun 12 17:53:59 2016
+MC has reached at node:  120.0 , Time taken:  0.36538602114
+Total number of dead nodes:  0
+MC starting to move from :  87.0 11.0  :  Sun Jun 12 17:54:11 2016
+MC has reached at node:  109.0 , Time taken:  0.0673145600892
+120  recharged! , Battery:  18720.0  :  Sun Jun 12 17:54:12 2016
+Total number of dead nodes:  0
+MC starting to move from :  93.0 26.0  :  Sun Jun 12 17:54:23 2016
+MC has reached at node:  89.0 , Time taken:  0.0646840612344
+109  recharged! , Battery:  18720.0  :  Sun Jun 12 17:54:24 2016
+Total number of dead nodes:  0
+MC starting to move from :  97.0 41.0  :  Sun Jun 12 17:54:35 2016
+MC has reached at node:  103.0 , Time taken:  0.071686043892
+89  recharged! , Battery:  18720.0  :  Sun Jun 12 17:54:36 2016
+Total number of dead nodes:  0
+MC starting to move from :  111.0 51.0  :  Sun Jun 12 17:54:47 2016
+MC has reached at node:  87.0 , Time taken:  0.0578851832894
+103  recharged! , Battery:  18720.0  :  Sun Jun 12 17:54:48 2016
+Total number of dead nodes:  0
+MC starting to move from :  123.0 44.0  :  Sun Jun 12 17:54:59 2016
+MC has reached at node:  26.0 , Time taken:  0.0393082547169
+87  recharged! , Battery:  18720.0  :  Sun Jun 12 17:55:00 2016
+Total distance covered:  1148.97051007  @  Sun Jun 12 17:55:12 2016
+MC is returning to base!
+26  recharged! , Battery:  18720.0  :  Sun Jun 12 17:55:12 2016
+MC is fresh again. Battery Status:  40000  at:  0 0
+Total number of dead nodes:  0
+MC starting to move from :  0 0  :  Sun Jun 12 17:57:39 2016
+MC has reached at node:  68.0 , Time taken:  0.459260425999
+Total number of dead nodes:  0
+MC starting to move from :  110.0 7.0  :  Sun Jun 12 17:57:51 2016
+MC has reached at node:  50.0 , Time taken:  0.0842656184007
+68  recharged! , Battery:  18720.0  :  Sun Jun 12 17:57:52 2016
+Total number of dead nodes:  0
+MC starting to move from :  113.0 27.0  :  Sun Jun 12 17:58:03 2016
+MC has reached at node:  114.0 , Time taken:  0.0208333333333
+50  recharged! , Battery:  18720.0  :  Sun Jun 12 17:58:04 2016
+Total number of dead nodes:  0
+MC starting to move from :  113.0 32.0  :  Sun Jun 12 17:58:15 2016
+MC has reached at node:  1.0 , Time taken:  0.126724219381
+114  recharged! , Battery:  18720.0  :  Sun Jun 12 17:58:16 2016
+Total number of dead nodes:  0
+MC starting to move from :  140.0 18.0  :  Sun Jun 12 17:58:27 2016
+MC has reached at node:  65.0 , Time taken:  0.0580349511549
+1  recharged! , Battery:  18720.0  :  Sun Jun 12 17:58:28 2016
+Total number of dead nodes:  0
+MC starting to move from :  153.0 23.0  :  Sun Jun 12 17:58:39 2016
+MC has reached at node:  20.0 , Time taken:  0.0208333333333
+65  recharged! , Battery:  18720.0  :  Sun Jun 12 17:58:40 2016
+Total distance covered:  1492.07825928  @  Sun Jun 12 17:58:51 2016
+MC is returning to base!
+20  recharged! , Battery:  18720.0  :  Sun Jun 12 17:58:52 2016
+General request from  7  :  Sun Jun 12 17:58:58 2016
+General request from  47  :  Sun Jun 12 17:58:58 2016
+General request from  17  :  Sun Jun 12 17:58:58 2016
+General request from  19  :  Sun Jun 12 17:58:58 2016
+General request from  12  :  Sun Jun 12 17:58:58 2016
+General request from  46  :  Sun Jun 12 17:58:58 2016
+General request from  34  :  Sun Jun 12 17:58:58 2016
+General request from  64  :  Sun Jun 12 17:58:58 2016
+General request from  70  :  Sun Jun 12 17:58:58 2016
+General request from  33  :  Sun Jun 12 17:58:58 2016
+General request from  74  :  Sun Jun 12 17:58:58 2016
+General request from  73  :  Sun Jun 12 17:58:58 2016
+General request from  56  :  Sun Jun 12 17:58:58 2016
+General request from  53  :  Sun Jun 12 17:58:58 2016
+General request from  72  :  Sun Jun 12 17:58:58 2016
+General request from  69  :  Sun Jun 12 17:58:58 2016
+General request from  121  :  Sun Jun 12 17:58:58 2016
+General request from  76  :  Sun Jun 12 17:58:58 2016
+General request from  113  :  Sun Jun 12 17:58:58 2016
+General request from  81  :  Sun Jun 12 17:58:58 2016
+General request from  98  :  Sun Jun 12 17:59:01 2016
+MC is fresh again. Battery Status:  40000  at:  0 0
+Total number of dead nodes:  0
+MC starting to move from :  0 0  :  Sun Jun 12 18:01:22 2016
+MC has reached at node:  73.0 , Time taken:  0.490128242855
+Total number of dead nodes:  0
+MC starting to move from :  106.0 51.0  :  Sun Jun 12 18:01:35 2016
+MC has reached at node:  64.0 , Time taken:  0.0303337912053
+73  recharged! , Battery:  18720.0  :  Sun Jun 12 18:01:35 2016
+Total number of dead nodes:  0
+MC starting to move from :  108.0 58.0  :  Sun Jun 12 18:01:47 2016
+MC has reached at node:  98.0 , Time taken:  0.0522081836923
+64  recharged! , Battery:  18720.0  :  Sun Jun 12 18:01:47 2016
+Total number of dead nodes:  0
+MC starting to move from :  119.0 52.0  :  Sun Jun 12 18:01:59 2016
+MC has reached at node:  47.0 , Time taken:  0.0630531081268
+98  recharged! , Battery:  18720.0  :  Sun Jun 12 18:02:00 2016
+Total number of dead nodes:  0
+MC starting to move from :  117.0 37.0  :  Sun Jun 12 18:02:11 2016
+MC has reached at node:  34.0 , Time taken:  0.0804716996493
+47  recharged! , Battery:  18720.0  :  Sun Jun 12 18:02:12 2016
+Total number of dead nodes:  0
+MC starting to move from :  124.0 19.0  :  Sun Jun 12 18:02:23 2016
+MC has reached at node:  17.0 , Time taken:  0.104416367385
+34  recharged! , Battery:  18720.0  :  Sun Jun 12 18:02:24 2016
+Total distance covered:  1835.19270547  @  Sun Jun 12 18:02:35 2016
+MC is returning to base!
+17  recharged! , Battery:  18720.0  :  Sun Jun 12 18:02:36 2016
+MC is fresh again. Battery Status:  40000  at:  0 0
+Total number of dead nodes:  0
+MC starting to move from :  0 0  :  Sun Jun 12 18:05:04 2016
+MC has reached at node:  121.0 , Time taken:  0.56311694562
+Total number of dead nodes:  0
+MC starting to move from :  99.0 92.0  :  Sun Jun 12 18:05:17 2016
+MC has reached at node:  40.0 , Time taken:  0.0875991501735
+121  recharged! , Battery:  18720.0  :  Sun Jun 12 18:05:17 2016
+Total number of dead nodes:  0
+MC starting to move from :  118.0 83.0  :  Sun Jun 12 18:05:29 2016
+40  recharged! , Battery:  18720.0  :  Sun Jun 12 18:05:29 2016
+MC has reached at node:  62.0 , Time taken:  0.0416666666667
+Total number of dead nodes:  0
+MC starting to move from :  124.0 91.0  :  Sun Jun 12 18:05:41 2016
+MC has reached at node:  69.0 , Time taken:  0.00833333333333
+62  recharged! , Battery:  18720.0  :  Sun Jun 12 18:05:41 2016
+Total number of dead nodes:  0
+MC starting to move from :  124.0 93.0  :  Sun Jun 12 18:05:53 2016
+MC has reached at node:  46.0 , Time taken:  0.075
+69  recharged! , Battery:  18720.0  :  Sun Jun 12 18:05:54 2016
+Total number of dead nodes:  0
+MC starting to move from :  142.0 93.0  :  Sun Jun 12 18:06:05 2016
+46  recharged! , Battery:  18720.0  :  Sun Jun 12 18:06:05 2016
+MC has reached at node:  117.0 , Time taken:  0.0843685697138
+Total distance covered:  2193.0626868  @  Sun Jun 12 18:06:17 2016
+MC is returning to base!
+117  recharged! , Battery:  18720.0  :  Sun Jun 12 18:06:17 2016
+MC is fresh again. Battery Status:  40000  at:  0 0
+Total number of dead nodes:  0
+MC starting to move from :  0 0  :  Sun Jun 12 18:08:47 2016
+MC has reached at node:  13.0 , Time taken:  0.614551552851
+Total number of dead nodes:  0
+MC starting to move from :  127.0 75.0  :  Sun Jun 12 18:09:00 2016
+MC has reached at node:  70.0 , Time taken:  0.0266796843226
+13  recharged! , Battery:  18720.0  :  Sun Jun 12 18:09:01 2016
+Total number of dead nodes:  0
+MC starting to move from :  132.0 71.0  :  Sun Jun 12 18:09:12 2016
+MC has reached at node:  39.0 , Time taken:  0.0883883476483
+70  recharged! , Battery:  18720.0  :  Sun Jun 12 18:09:13 2016
+Total number of dead nodes:  0
+MC starting to move from :  153.0 68.0  :  Sun Jun 12 18:09:24 2016
+MC has reached at node:  81.0 , Time taken:  0.0766032346285
+39  recharged! , Battery:  18720.0  :  Sun Jun 12 18:09:25 2016
+Total number of dead nodes:  0
+MC starting to move from :  160.0 51.0  :  Sun Jun 12 18:09:36 2016
+MC has reached at node:  38.0 , Time taken:  0.0253448438762
+81  recharged! , Battery:  18720.0  :  Sun Jun 12 18:09:37 2016
+Total number of dead nodes:  0
+MC starting to move from :  161.0 45.0  :  Sun Jun 12 18:09:49 2016
+38  recharged! , Battery:  18720.0  :  Sun Jun 12 18:09:49 2016
+MC has reached at node:  113.0 , Time taken:  0.0171796067734
+Total distance covered:  2559.81110399  @  Sun Jun 12 18:10:01 2016
+MC is returning to base!
+113  recharged! , Battery:  18720.0  :  Sun Jun 12 18:10:02 2016
+MC is fresh again. Battery Status:  40000  at:  0 0
+Total number of dead nodes:  0
+MC starting to move from :  0 0  :  Sun Jun 12 18:12:33 2016
+MC has reached at node:  21.0 , Time taken:  0.625013888735
+Total number of dead nodes:  0
+MC starting to move from :  150.0 1.0  :  Sun Jun 12 18:12:46 2016
+MC has reached at node:  75.0 , Time taken:  0.159480493408
+21  recharged! , Battery:  18720.0  :  Sun Jun 12 18:12:46 2016
+Total number of dead nodes:  0
+MC starting to move from :  163.0 37.0  :  Sun Jun 12 18:12:58 2016
+MC has reached at node:  58.0 , Time taken:  0.0619419531138
+75  recharged! , Battery:  18720.0  :  Sun Jun 12 18:12:59 2016
+Total number of dead nodes:  0
+MC starting to move from :  152.0 47.0  :  Sun Jun 12 18:13:10 2016
+MC has reached at node:  7.0 , Time taken:  0.0325427069829
+58  recharged! , Battery:  18720.0  :  Sun Jun 12 18:13:11 2016
+Total number of dead nodes:  0
+MC starting to move from :  147.0 41.0  :  Sun Jun 12 18:13:22 2016
+MC has reached at node:  67.0 , Time taken:  0.176235716521
+7  recharged! , Battery:  18720.0  :  Sun Jun 12 18:13:23 2016
+Total number of dead nodes:  0
+MC starting to move from :  189.0 36.0  :  Sun Jun 12 18:13:34 2016
+MC has reached at node:  33.0 , Time taken:  0.0242956328952
+67  recharged! , Battery:  18720.0  :  Sun Jun 12 18:13:35 2016
+Total distance covered:  3013.38010137  @  Sun Jun 12 18:13:46 2016
+MC is returning to base!
+33  recharged! , Battery:  18720.0  :  Sun Jun 12 18:13:47 2016
+General request from  96  :  Sun Jun 12 18:15:01 2016
+General request from  83  :  Sun Jun 12 18:15:02 2016
+General request from  71  :  Sun Jun 12 18:15:02 2016
+General request from  45  :  Sun Jun 12 18:15:02 2016
+General request from  15  :  Sun Jun 12 18:15:02 2016
+General request from  92  :  Sun Jun 12 18:15:03 2016
+General request from  57  :  Sun Jun 12 18:15:03 2016
+General request from  106  :  Sun Jun 12 18:15:03 2016
+General request from  30  :  Sun Jun 12 18:15:03 2016
+General request from  112  :  Sun Jun 12 18:15:03 2016
+General request from  44  :  Sun Jun 12 18:15:03 2016
+General request from  6  :  Sun Jun 12 18:15:03 2016
+General request from  111  :  Sun Jun 12 18:15:03 2016
+General request from  60  :  Sun Jun 12 18:15:03 2016
+General request from  63  :  Sun Jun 12 18:15:03 2016
+General request from  54  :  Sun Jun 12 18:15:03 2016
+General request from  3  :  Sun Jun 12 18:15:04 2016
+General request from  59  :  Sun Jun 12 18:15:04 2016
+General request from  5  :  Sun Jun 12 18:15:04 2016
+General request from  10  :  Sun Jun 12 18:15:05 2016
+MC is fresh again. Battery Status:  40000  at:  0 0
+Total number of dead nodes:  0
+MC starting to move from :  0 0  :  Sun Jun 12 18:16:24 2016
+MC has reached at node:  106.0 , Time taken:  0.425081691495
+Total number of dead nodes:  0
+MC starting to move from :  102.0 2.0  :  Sun Jun 12 18:16:37 2016
+106  recharged! , Battery:  18720.0  :  Sun Jun 12 18:16:37 2016
+MC has reached at node:  5.0 , Time taken:  0.0636014063436
+Total number of dead nodes:  0
+MC starting to move from :  115.0 10.0  :  Sun Jun 12 18:16:49 2016
+5  recharged! , Battery:  18720.0  :  Sun Jun 12 18:16:49 2016
+MC has reached at node:  45.0 , Time taken:  0.0515388203202
+Total number of dead nodes:  0
+MC starting to move from :  127.0 13.0  :  Sun Jun 12 18:17:01 2016
+45  recharged! , Battery:  18720.0  :  Sun Jun 12 18:17:01 2016
+MC has reached at node:  6.0 , Time taken:  0.0834374349771
+Total number of dead nodes:  0
+MC starting to move from :  147.0 12.0  :  Sun Jun 12 18:17:13 2016
+MC has reached at node:  83.0 , Time taken:  0.0418744817547
+6  recharged! , Battery:  18720.0  :  Sun Jun 12 18:17:14 2016
+Total number of dead nodes:  0
+MC starting to move from :  157.0 13.0  :  Sun Jun 12 18:17:25 2016
+MC has reached at node:  44.0 , Time taken:  0.0867027168612
+83  recharged! , Battery:  18720.0  :  Sun Jun 12 18:17:26 2016
+Total distance covered:  3341.98780274  @  Sun Jun 12 18:17:37 2016
+MC is returning to base!
+44  recharged! , Battery:  18720.0  :  Sun Jun 12 18:17:38 2016
+MC is fresh again. Battery Status:  40000  at:  0 0
+Total number of dead nodes:  0
+MC starting to move from :  0 0  :  Sun Jun 12 18:20:06 2016
+MC has reached at node:  96.0 , Time taken:  0.451117439748
+Total number of dead nodes:  0
+MC starting to move from :  101.0 39.0  :  Sun Jun 12 18:20:18 2016
+MC has reached at node:  112.0 , Time taken:  0.0300462606289
+96  recharged! , Battery:  18720.0  :  Sun Jun 12 18:20:19 2016
+Total number of dead nodes:  0
+MC starting to move from :  105.0 33.0  :  Sun Jun 12 18:20:30 2016
+MC has reached at node:  30.0 , Time taken:  0.0458333333333
+112  recharged! , Battery:  18720.0  :  Sun Jun 12 18:20:31 2016
+Total number of dead nodes:  0
+MC starting to move from :  116.0 33.0  :  Sun Jun 12 18:20:43 2016
+MC has reached at node:  59.0 , Time taken:  0.00931694990625
+30  recharged! , Battery:  18720.0  :  Sun Jun 12 18:20:43 2016
+Total number of dead nodes:  0
+MC starting to move from :  117.0 31.0  :  Sun Jun 12 18:20:55 2016
+MC has reached at node:  10.0 , Time taken:  0.153206469257
+59  recharged! , Battery:  18720.0  :  Sun Jun 12 18:20:55 2016
+Total number of dead nodes:  0
+MC starting to move from :  151.0 45.0  :  Sun Jun 12 18:21:07 2016
+MC has reached at node:  63.0 , Time taken:  0.0384147685721
+10  recharged! , Battery:  18720.0  :  Sun Jun 12 18:21:07 2016
+Total distance covered:  3679.4343832  @  Sun Jun 12 18:21:19 2016
+MC is returning to base!
+63  recharged! , Battery:  18720.0  :  Sun Jun 12 18:21:19 2016
+MC is fresh again. Battery Status:  40000  at:  0 0
+Total number of dead nodes:  0
+MC starting to move from :  0 0  :  Sun Jun 12 18:23:51 2016
+MC has reached at node:  92.0 , Time taken:  0.635631794184
+Total number of dead nodes:  0
+MC starting to move from :  126.0 86.0  :  Sun Jun 12 18:24:04 2016
+MC has reached at node:  71.0 , Time taken:  0.0384147685721
+92  recharged! , Battery:  18720.0  :  Sun Jun 12 18:24:04 2016
+Total number of dead nodes:  0
+MC starting to move from :  133.0 92.0  :  Sun Jun 12 18:24:16 2016
+MC has reached at node:  60.0 , Time taken:  0.0708333333333
+71  recharged! , Battery:  18720.0  :  Sun Jun 12 18:24:16 2016
+Emergency request from  88  :  Sun Jun 12 18:24:27 2016
+Total number of dead nodes:  0
+MC starting to move from :  148.0 84.0  :  Sun Jun 12 18:24:28 2016
+MC has reached at node:  88.0 , Time taken:  0.171644416034
+60  recharged! , Battery:  18720.0  :  Sun Jun 12 18:24:28 2016
+Total number of dead nodes:  0
+MC starting to move from :  189.0 88.0  :  Sun Jun 12 18:24:40 2016
+MC has reached at node:  29.0 , Time taken:  0.0208333333333
+88  recharged! , Battery:  18720.0  :  Sun Jun 12 18:24:40 2016
+Total number of dead nodes:  0
+MC starting to move from :  186.0 92.0  :  Sun Jun 12 18:24:52 2016
+MC has reached at node:  22.0 , Time taken:  0.0435012771205
+29  recharged! , Battery:  18720.0  :  Sun Jun 12 18:24:52 2016
+Total distance covered:  4130.10083215  @  Sun Jun 12 18:25:04 2016
+MC is returning to base!
+22  recharged! , Battery:  18720.0  :  Sun Jun 12 18:25:04 2016
+MC is fresh again. Battery Status:  40000  at:  0 0
+Total number of dead nodes:  0
+MC starting to move from :  0 0  :  Sun Jun 12 18:27:47 2016
+MC has reached at node:  54.0 , Time taken:  0.7453559925
+Total number of dead nodes:  0
+MC starting to move from :  160.0 80.0  :  Sun Jun 12 18:28:00 2016
+MC has reached at node:  111.0 , Time taken:  0.0242956328952
+54  recharged! , Battery:  18720.0  :  Sun Jun 12 18:28:00 2016
+Total number of dead nodes:  0
+MC starting to move from :  163.0 75.0  :  Sun Jun 12 18:28:12 2016
+MC has reached at node:  3.0 , Time taken:  0.0475073093791
+111  recharged! , Battery:  18720.0  :  Sun Jun 12 18:28:12 2016
+Total number of dead nodes:  0
+MC starting to move from :  174.0 78.0  :  Sun Jun 12 18:28:24 2016
+MC has reached at node:  57.0 , Time taken:  0.0527046276695
+3  recharged! , Battery:  18720.0  :  Sun Jun 12 18:28:24 2016
+Total number of dead nodes:  0
+MC starting to move from :  186.0 74.0  :  Sun Jun 12 18:28:36 2016
+MC has reached at node:  56.0 , Time taken:  0.0465847495312
+57  recharged! , Battery:  18720.0  :  Sun Jun 12 18:28:36 2016
+Total number of dead nodes:  0
+MC starting to move from :  196.0 69.0  :  Sun Jun 12 18:28:48 2016
+MC has reached at node:  53.0 , Time taken:  0.0224381866964
+56  recharged! , Battery:  18720.0  :  Sun Jun 12 18:28:48 2016
+Total distance covered:  4566.81003328  @  Sun Jun 12 18:29:00 2016
+MC is returning to base!
+53  recharged! , Battery:  18720.0  :  Sun Jun 12 18:29:01 2016
+MC is fresh again. Battery Status:  40000  at:  0 0
+Total number of dead nodes:  0
+MC starting to move from :  0 0  :  Sun Jun 12 18:31:42 2016
+MC has reached at node:  15.0 , Time taken:  0.780235452355
+Total number of dead nodes:  0
+MC starting to move from :  181.0 48.0  :  Sun Jun 12 18:31:55 2016
+MC has reached at node:  55.0 , Time taken:  0.0416666666667
+15  recharged! , Battery:  18720.0  :  Sun Jun 12 18:31:56 2016
+Total number of dead nodes:  0
+MC starting to move from :  189.0 54.0  :  Sun Jun 12 18:32:07 2016
+MC has reached at node:  19.0 , Time taken:  0.0171796067734
+55  recharged! , Battery:  18720.0  :  Sun Jun 12 18:32:07 2016
+Total number of dead nodes:  0
+MC starting to move from :  188.0 58.0  :  Sun Jun 12 18:32:19 2016
+MC has reached at node:  72.0 , Time taken:  0.0343592135468
+19  recharged! , Battery:  18720.0  :  Sun Jun 12 18:32:20 2016
+Total number of dead nodes:  0
+MC starting to move from :  196.0 60.0  :  Sun Jun 12 18:32:31 2016
+MC has reached at node:  12.0 , Time taken:  0.0687184270936
+72  recharged! , Battery:  18720.0  :  Sun Jun 12 18:32:32 2016
+Total number of dead nodes:  0
+MC starting to move from :  192.0 44.0  :  Sun Jun 12 18:32:43 2016
+MC has reached at node:  108.0 , Time taken:  0.0925150137966
+12  recharged! , Battery:  18720.0  :  Sun Jun 12 18:32:44 2016
+Total distance covered:  5011.36898602  @  Sun Jun 12 18:32:55 2016
+MC is returning to base!
+108  recharged! , Battery:  18720.0  :  Sun Jun 12 18:32:55 2016
+MC is fresh again. Battery Status:  40000  at:  0 0
+Total number of dead nodes:  0
+MC starting to move from :  0 0  :  Sun Jun 12 18:35:34 2016
+MC has reached at node:  74.0 , Time taken:  0.789976265466
+Total number of dead nodes:  0
+MC starting to move from :  189.0 15.0  :  Sun Jun 12 18:35:47 2016
+MC has reached at node:  76.0 , Time taken:  0.0393082547169
+74  recharged! , Battery:  18720.0  :  Sun Jun 12 18:35:48 2016
+Total number of dead nodes:  0
+MC starting to move from :  197.0 20.0  :  Sun Jun 12 18:35:59 2016
+MC has reached at node:  99.0 , Time taken:  0.0584819535317
+76  recharged! , Battery:  18720.0  :  Sun Jun 12 18:36:00 2016
+Total number of dead nodes:  0
+MC starting to move from :  196.0 6.0  :  Sun Jun 12 18:36:11 2016
+MC has reached at node:  2.0 , Time taken:  0.0279508497187
+99  recharged! , Battery:  18720.0  :  Sun Jun 12 18:36:12 2016
+2  recharged! , Battery:  18720.0  :  Sun Jun 12 18:36:24 2016
+Emergency request from  9  :  Sun Jun 12 18:43:41 2016
+Total number of dead nodes:  0
+MC starting to move from :  199.0 0.0  :  Sun Jun 12 18:43:41 2016
+MC has reached at node:  9.0 , Time taken:  0.197642353761
+Emergency request from  91  :  Sun Jun 12 18:43:51 2016
+Total number of dead nodes:  0
+MC starting to move from :  184.0 45.0  :  Sun Jun 12 18:43:53 2016
+MC has reached at node:  91.0 , Time taken:  0.133398421613
+9  recharged! , Battery:  18720.0  :  Sun Jun 12 18:43:54 2016
+Emergency request from  93  :  Sun Jun 12 18:44:02 2016
+Total distance covered:  5487.14686988  @  Sun Jun 12 18:44:05 2016
+MC is returning to base!
+91  recharged! , Battery:  18720.0  :  Sun Jun 12 18:44:06 2016
+Emergency request from  61  :  Sun Jun 12 18:44:14 2016
+Emergency request from  100  :  Sun Jun 12 18:44:28 2016
+Emergency request from  11  :  Sun Jun 12 18:44:40 2016
+MC is fresh again. Battery Status:  40000  at:  0 0
+Total number of dead nodes:  0
+MC starting to move from :  0 0  :  Sun Jun 12 18:46:40 2016
+MC has reached at node:  11.0 , Time taken:  0.486715893629
+Total number of dead nodes:  0
+MC starting to move from :  109.0 42.0  :  Sun Jun 12 18:46:53 2016
+11  recharged! , Battery:  18720.0  :  Sun Jun 12 18:46:53 2016
+MC has reached at node:  100.0 , Time taken:  0.0384147685721
+Total number of dead nodes:  0
+MC starting to move from :  116.0 36.0  :  Sun Jun 12 18:47:05 2016
+MC has reached at node:  61.0 , Time taken:  0.136040230978
+100  recharged! , Battery:  18720.0  :  Sun Jun 12 18:47:05 2016
+Total number of dead nodes:  0
+MC starting to move from :  131.0 7.0  :  Sun Jun 12 18:47:17 2016
+MC has reached at node:  93.0 , Time taken:  0.0894621273066
+61  recharged! , Battery:  18720.0  :  Sun Jun 12 18:47:17 2016
+Emergency request from  122  :  Sun Jun 12 18:47:17 2016
+Emergency request from  85  :  Sun Jun 12 18:47:29 2016
+Total number of dead nodes:  0
+MC starting to move from :  150.0 17.0  :  Sun Jun 12 18:47:29 2016
+MC has reached at node:  85.0 , Time taken:  0.215098491652
+93  recharged! , Battery:  18720.0  :  Sun Jun 12 18:47:29 2016
+Emergency request from  115  :  Sun Jun 12 18:47:39 2016
+Total number of dead nodes:  0
+MC starting to move from :  99.0 25.0  :  Sun Jun 12 18:47:41 2016
+MC has reached at node:  122.0 , Time taken:  0.050173310745
+85  recharged! , Battery:  18720.0  :  Sun Jun 12 18:47:42 2016
+Emergency request from  104  :  Sun Jun 12 18:47:52 2016
+Total distance covered:  5821.76600973  @  Sun Jun 12 18:47:53 2016
+MC is returning to base!
+122  recharged! , Battery:  18720.0  :  Sun Jun 12 18:47:53 2016
+Emergency request from  77  :  Sun Jun 12 18:48:06 2016
+Emergency request from  42  :  Sun Jun 12 18:48:17 2016
+MC is fresh again. Battery Status:  40000  at:  0 0
+Total number of dead nodes:  0
+MC starting to move from :  0 0  :  Sun Jun 12 18:50:11 2016
+MC has reached at node:  115.0 , Time taken:  0.598899453628
+Total number of dead nodes:  0
+MC starting to move from :  134.0 52.0  :  Sun Jun 12 18:50:24 2016
+MC has reached at node:  104.0 , Time taken:  0.0818620112683
+115  recharged! , Battery:  18720.0  :  Sun Jun 12 18:50:25 2016
+Total number of dead nodes:  0
+MC starting to move from :  153.0 57.0  :  Sun Jun 12 18:50:36 2016
+MC has reached at node:  77.0 , Time taken:  0.147254975392
+104  recharged! , Battery:  18720.0  :  Sun Jun 12 18:50:36 2016
+Total number of dead nodes:  0
+MC starting to move from :  168.0 89.0  :  Sun Jun 12 18:50:48 2016
+77  recharged! , Battery:  18720.0  :  Sun Jun 12 18:50:48 2016
+MC has reached at node:  42.0 , Time taken:  0.0804716996493
+42  recharged! , Battery:  18720.0  :  Sun Jun 12 18:51:01 2016
+General request from  27  :  Sun Jun 12 19:02:14 2016
+Total number of dead nodes:  0
+MC starting to move from :  186.0 82.0  :  Sun Jun 12 19:02:14 2016
+General request from  31  :  Sun Jun 12 19:02:14 2016
+General request from  25  :  Sun Jun 12 19:02:14 2016
+MC has reached at node:  27.0 , Time taken:  0.483494944246
+General request from  124  :  Sun Jun 12 19:02:14 2016
+General request from  119  :  Sun Jun 12 19:02:14 2016
+General request from  36  :  Sun Jun 12 19:02:14 2016
+General request from  82  :  Sun Jun 12 19:02:15 2016
+General request from  79  :  Sun Jun 12 19:02:15 2016
+General request from  51  :  Sun Jun 12 19:02:15 2016
+General request from  95  :  Sun Jun 12 19:02:15 2016
+General request from  37  :  Sun Jun 12 19:02:15 2016
+General request from  18  :  Sun Jun 12 19:02:15 2016
+General request from  48  :  Sun Jun 12 19:02:15 2016
+General request from  90  :  Sun Jun 12 19:02:16 2016
+General request from  80  :  Sun Jun 12 19:02:16 2016
+General request from  66  :  Sun Jun 12 19:02:16 2016
+General request from  107  :  Sun Jun 12 19:02:17 2016
+General request from  97  :  Sun Jun 12 19:02:17 2016
+General request from  102  :  Sun Jun 12 19:02:17 2016
+General request from  105  :  Sun Jun 12 19:02:17 2016
+General request from  14  :  Sun Jun 12 19:02:18 2016
+General request from  110  :  Sun Jun 12 19:02:18 2016
+General request from  0  :  Sun Jun 12 19:02:18 2016
+General request from  28  :  Sun Jun 12 19:02:18 2016
+General request from  52  :  Sun Jun 12 19:02:19 2016
+General request from  86  :  Sun Jun 12 19:02:19 2016
+General request from  16  :  Sun Jun 12 19:02:20 2016
+Total number of dead nodes:  0
+MC starting to move from :  95.0 10.0  :  Sun Jun 12 19:02:26 2016
+MC has reached at node:  80.0 , Time taken:  0.0343592135468
+27  recharged! , Battery:  18720.0  :  Sun Jun 12 19:02:27 2016
+Total distance covered:  6258.81408161  @  Sun Jun 12 19:02:38 2016
+MC is returning to base!
+80  recharged! , Battery:  18720.0  :  Sun Jun 12 19:02:39 2016
+MC is fresh again. Battery Status:  40000  at:  0 0
+Total number of dead nodes:  0
+MC starting to move from :  0 0  :  Sun Jun 12 19:04:56 2016
+MC has reached at node:  119.0 , Time taken:  0.402358498246
+Total number of dead nodes:  0
+MC starting to move from :  93.0 26.0  :  Sun Jun 12 19:05:09 2016
+MC has reached at node:  86.0 , Time taken:  0.0208333333333
+119  recharged! , Battery:  18720.0  :  Sun Jun 12 19:05:10 2016
+Emergency request from  120  :  Sun Jun 12 19:05:18 2016
+Total number of dead nodes:  0
+MC starting to move from :  97.0 23.0  :  Sun Jun 12 19:05:21 2016
+MC has reached at node:  120.0 , Time taken:  0.0650854139659
+86  recharged! , Battery:  18720.0  :  Sun Jun 12 19:05:21 2016
+Total number of dead nodes:  0
+MC starting to move from :  87.0 11.0  :  Sun Jun 12 19:05:33 2016
+MC has reached at node:  79.0 , Time taken:  0.0619419531138
+Emergency request from  109  :  Sun Jun 12 19:05:33 2016
+120  recharged! , Battery:  18720.0  :  Sun Jun 12 19:05:33 2016
+Emergency request from  89  :  Sun Jun 12 19:05:43 2016
+Total number of dead nodes:  0
+MC starting to move from :  101.0 16.0  :  Sun Jun 12 19:05:45 2016
+MC has reached at node:  109.0 , Time taken:  0.0533593686453
+79  recharged! , Battery:  18720.0  :  Sun Jun 12 19:05:45 2016
+Emergency request from  103  :  Sun Jun 12 19:05:57 2016
+Total number of dead nodes:  0
+MC starting to move from :  93.0 26.0  :  Sun Jun 12 19:05:57 2016
+MC has reached at node:  89.0 , Time taken:  0.0646840612344
+109  recharged! , Battery:  18720.0  :  Sun Jun 12 19:05:58 2016
+Emergency request from  87  :  Sun Jun 12 19:06:08 2016
+Total distance covered:  6524.50618139  @  Sun Jun 12 19:06:09 2016
+MC is returning to base!
+89  recharged! , Battery:  18720.0  :  Sun Jun 12 19:06:10 2016
+Emergency request from  26  :  Sun Jun 12 19:06:17 2016
+MC is fresh again. Battery Status:  40000  at:  0 0
+Total number of dead nodes:  0
+MC starting to move from :  0 0  :  Sun Jun 12 19:08:30 2016
+MC has reached at node:  103.0 , Time taken:  0.508981826788
+Total number of dead nodes:  0
+MC starting to move from :  111.0 51.0  :  Sun Jun 12 19:08:43 2016
+MC has reached at node:  87.0 , Time taken:  0.0578851832894
+103  recharged! , Battery:  18720.0  :  Sun Jun 12 19:08:43 2016
+Total number of dead nodes:  0
+MC starting to move from :  123.0 44.0  :  Sun Jun 12 19:08:55 2016
+MC has reached at node:  26.0 , Time taken:  0.0393082547169
+87  recharged! , Battery:  18720.0  :  Sun Jun 12 19:08:56 2016
+Emergency request from  68  :  Sun Jun 12 19:08:57 2016
+Total number of dead nodes:  0
+MC starting to move from :  131.0 39.0  :  Sun Jun 12 19:09:07 2016
+26  recharged! , Battery:  18720.0  :  Sun Jun 12 19:09:07 2016
+MC has reached at node:  68.0 , Time taken:  0.159480493408
+Emergency request from  50  :  Sun Jun 12 19:09:11 2016
+Total number of dead nodes:  0
+MC starting to move from :  110.0 7.0  :  Sun Jun 12 19:09:19 2016
+MC has reached at node:  50.0 , Time taken:  0.0842656184007
+68  recharged! , Battery:  18720.0  :  Sun Jun 12 19:09:20 2016
+Emergency request from  114  :  Sun Jun 12 19:09:21 2016
+Total number of dead nodes:  0
+MC starting to move from :  113.0 27.0  :  Sun Jun 12 19:09:31 2016
+MC has reached at node:  114.0 , Time taken:  0.0208333333333
+50  recharged! , Battery:  18720.0  :  Sun Jun 12 19:09:31 2016
+Emergency request from  1  :  Sun Jun 12 19:09:38 2016
+Total distance covered:  6850.93091526  @  Sun Jun 12 19:09:43 2016
+MC is returning to base!
+114  recharged! , Battery:  18720.0  :  Sun Jun 12 19:09:44 2016
+Emergency request from  65  :  Sun Jun 12 19:09:52 2016
+Emergency request from  20  :  Sun Jun 12 19:10:01 2016
+MC is fresh again. Battery Status:  40000  at:  0 0
+Total number of dead nodes:  0
+MC starting to move from :  0 0  :  Sun Jun 12 19:12:06 2016
+MC has reached at node:  1.0 , Time taken:  0.58813499962
+Total number of dead nodes:  0
+MC starting to move from :  140.0 18.0  :  Sun Jun 12 19:12:19 2016
+MC has reached at node:  65.0 , Time taken:  0.0580349511549
+1  recharged! , Battery:  18720.0  :  Sun Jun 12 19:12:20 2016
+Total number of dead nodes:  0
+MC starting to move from :  153.0 23.0  :  Sun Jun 12 19:12:31 2016
+MC has reached at node:  20.0 , Time taken:  0.0208333333333
+65  recharged! , Battery:  18720.0  :  Sun Jun 12 19:12:32 2016
+Total number of dead nodes:  0
+MC starting to move from :  156.0 27.0  :  Sun Jun 12 19:12:43 2016
+MC has reached at node:  52.0 , Time taken:  0.0448763733928
+20  recharged! , Battery:  18720.0  :  Sun Jun 12 19:12:44 2016
+Total number of dead nodes:  0
+MC starting to move from :  146.0 31.0  :  Sun Jun 12 19:12:55 2016
+MC has reached at node:  36.0 , Time taken:  0.109052102736
+52  recharged! , Battery:  18720.0  :  Sun Jun 12 19:12:56 2016
+Total number of dead nodes:  0
+MC starting to move from :  164.0 50.0  :  Sun Jun 12 19:13:07 2016
+MC has reached at node:  107.0 , Time taken:  0.05034602489
+36  recharged! , Battery:  18720.0  :  Sun Jun 12 19:13:07 2016
+Total distance covered:  7243.47694697  @  Sun Jun 12 19:13:19 2016
+MC is returning to base!
+107  recharged! , Battery:  18720.0  :  Sun Jun 12 19:13:20 2016
+MC is fresh again. Battery Status:  40000  at:  0 0
+Total number of dead nodes:  0
+MC starting to move from :  0 0  :  Sun Jun 12 19:15:55 2016
+MC has reached at node:  97.0 , Time taken:  0.46996601532
+Total number of dead nodes:  0
+MC starting to move from :  109.0 29.0  :  Sun Jun 12 19:16:08 2016
+MC has reached at node:  51.0 , Time taken:  0.0566727937864
+97  recharged! , Battery:  18720.0  :  Sun Jun 12 19:16:08 2016
+Total number of dead nodes:  0
+MC starting to move from :  120.0 21.0  :  Sun Jun 12 19:16:20 2016
+MC has reached at node:  0.0 , Time taken:  0.0842656184007
+51  recharged! , Battery:  18720.0  :  Sun Jun 12 19:16:20 2016
+Total number of dead nodes:  0
+MC starting to move from :  123.0 1.0  :  Sun Jun 12 19:16:32 2016
+MC has reached at node:  31.0 , Time taken:  0.193873168736
+0  recharged! , Battery:  18720.0  :  Sun Jun 12 19:16:32 2016
+Total number of dead nodes:  0
+MC starting to move from :  169.0 8.0  :  Sun Jun 12 19:16:44 2016
+MC has reached at node:  90.0 , Time taken:  0.0393082547169
+31  recharged! , Battery:  18720.0  :  Sun Jun 12 19:16:44 2016
+Emergency request from  40  :  Sun Jun 12 19:16:50 2016
+Total number of dead nodes:  0
+MC starting to move from :  177.0 13.0  :  Sun Jun 12 19:16:56 2016
+90  recharged! , Battery:  18720.0  :  Sun Jun 12 19:16:56 2016
+MC has reached at node:  40.0 , Time taken:  0.381449173839
+Emergency request from  62  :  Sun Jun 12 19:16:59 2016
+Total distance covered:  7681.87246629  @  Sun Jun 12 19:17:09 2016
+MC is returning to base!
+40  recharged! , Battery:  18720.0  :  Sun Jun 12 19:17:09 2016
+Emergency request from  117  :  Sun Jun 12 19:17:36 2016
+MC is fresh again. Battery Status:  40000  at:  0 0
+Total number of dead nodes:  0
+MC starting to move from :  0 0  :  Sun Jun 12 19:19:37 2016
+MC has reached at node:  117.0 , Time taken:  0.631040256684
+Total number of dead nodes:  0
+MC starting to move from :  131.0 76.0  :  Sun Jun 12 19:19:49 2016
+MC has reached at node:  62.0 , Time taken:  0.0689706056552
+117  recharged! , Battery:  18720.0  :  Sun Jun 12 19:19:50 2016
+Total number of dead nodes:  0
+MC starting to move from :  124.0 91.0  :  Sun Jun 12 19:20:01 2016
+MC has reached at node:  18.0 , Time taken:  0.0741853908949
+62  recharged! , Battery:  18720.0  :  Sun Jun 12 19:20:02 2016
+Emergency request from  13  :  Sun Jun 12 19:20:07 2016
+Total number of dead nodes:  0
+MC starting to move from :  138.0 80.0  :  Sun Jun 12 19:20:14 2016
+MC has reached at node:  13.0 , Time taken:  0.05034602489
+18  recharged! , Battery:  18720.0  :  Sun Jun 12 19:20:14 2016
+Total number of dead nodes:  0
+MC starting to move from :  127.0 75.0  :  Sun Jun 12 19:20:26 2016
+13  recharged! , Battery:  18720.0  :  Sun Jun 12 19:20:26 2016
+MC has reached at node:  28.0 , Time taken:  0.0377307714089
+Emergency request from  39  :  Sun Jun 12 19:20:31 2016
+Total number of dead nodes:  0
+MC starting to move from :  126.0 66.0  :  Sun Jun 12 19:20:38 2016
+MC has reached at node:  39.0 , Time taken:  0.112808219756
+28  recharged! , Battery:  18720.0  :  Sun Jun 12 19:20:38 2016
+Total distance covered:  8083.32255355  @  Sun Jun 12 19:20:50 2016
+MC is returning to base!
+39  recharged! , Battery:  18720.0  :  Sun Jun 12 19:20:51 2016
+Emergency request from  38  :  Sun Jun 12 19:20:53 2016
+MC is fresh again. Battery Status:  40000  at:  0 0
+Total number of dead nodes:  0
+MC starting to move from :  0 0  :  Sun Jun 12 19:23:23 2016
+MC has reached at node:  38.0 , Time taken:  0.69654404822
+Total number of dead nodes:  0
+MC starting to move from :  161.0 45.0  :  Sun Jun 12 19:23:36 2016
+38  recharged! , Battery:  18720.0  :  Sun Jun 12 19:23:36 2016
+MC has reached at node:  25.0 , Time taken:  0.0671854812358
+Emergency request from  21  :  Sun Jun 12 19:23:42 2016
+Total number of dead nodes:  0
+MC starting to move from :  175.0 37.0  :  Sun Jun 12 19:23:48 2016
+25  recharged! , Battery:  18720.0  :  Sun Jun 12 19:23:48 2016
+MC has reached at node:  21.0 , Time taken:  0.182621725007
+Emergency request from  75  :  Sun Jun 12 19:23:58 2016
+Total number of dead nodes:  0
+MC starting to move from :  150.0 1.0  :  Sun Jun 12 19:24:00 2016
+MC has reached at node:  75.0 , Time taken:  0.159480493408
+21  recharged! , Battery:  18720.0  :  Sun Jun 12 19:24:01 2016
+Emergency request from  58  :  Sun Jun 12 19:24:08 2016
+Total number of dead nodes:  0
+MC starting to move from :  163.0 37.0  :  Sun Jun 12 19:24:12 2016
+MC has reached at node:  58.0 , Time taken:  0.0619419531138
+75  recharged! , Battery:  18720.0  :  Sun Jun 12 19:24:13 2016
+Total number of dead nodes:  0
+MC starting to move from :  152.0 47.0  :  Sun Jun 12 19:24:24 2016
+MC has reached at node:  110.0 , Time taken:  0.0809020326623
+58  recharged! , Battery:  18720.0  :  Sun Jun 12 19:24:25 2016
+Emergency request from  67  :  Sun Jun 12 19:24:34 2016
+Total distance covered:  8545.05410482  @  Sun Jun 12 19:24:37 2016
+MC is returning to base!
+110  recharged! , Battery:  18720.0  :  Sun Jun 12 19:24:37 2016
+MC is fresh again. Battery Status:  40000  at:  0 0
+Total number of dead nodes:  0
+MC starting to move from :  0 0  :  Sun Jun 12 19:27:09 2016
+MC has reached at node:  67.0 , Time taken:  0.801658437241
+Total number of dead nodes:  0
+MC starting to move from :  189.0 36.0  :  Sun Jun 12 19:27:21 2016
+MC has reached at node:  102.0 , Time taken:  0.0150231303144
+67  recharged! , Battery:  18720.0  :  Sun Jun 12 19:27:22 2016
+Total number of dead nodes:  0
+MC starting to move from :  186.0 38.0  :  Sun Jun 12 19:27:33 2016
+MC has reached at node:  66.0 , Time taken:  0.0166666666667
+102  recharged! , Battery:  18720.0  :  Sun Jun 12 19:27:34 2016
+Total number of dead nodes:  0
+MC starting to move from :  186.0 42.0  :  Sun Jun 12 19:27:45 2016
+MC has reached at node:  48.0 , Time taken:  0.0741853908949
+66  recharged! , Battery:  18720.0  :  Sun Jun 12 19:27:46 2016
+Dead nodes list: 
+ [88]
+Total number of dead nodes:  1
+MC starting to move from :  197.0 28.0  :  Sun Jun 12 19:27:58 2016
+MC has reached at node:  37.0 , Time taken:  0.0634647758822
+48  recharged! , Battery:  18720.0  :  Sun Jun 12 19:27:58 2016
+Total number of dead nodes:  1
+MC starting to move from :  183.0 22.0  :  Sun Jun 12 19:28:10 2016
+MC has reached at node:  14.0 , Time taken:  0.02124591464
+37  recharged! , Battery:  18720.0  :  Sun Jun 12 19:28:10 2016
+Total distance covered:  8965.98497236  @  Sun Jun 12 19:28:22 2016
+MC is returning to base!
+14  recharged! , Battery:  18720.0  :  Sun Jun 12 19:28:22 2016
+MC is fresh again. Battery Status:  40000  at:  0 0
+Total number of dead nodes:  1
+MC starting to move from :  0 0  :  Sun Jun 12 19:30:58 2016
+MC has reached at node:  16.0 , Time taken:  0.490075107622
+Total number of dead nodes:  1
+MC starting to move from :  105.0 53.0  :  Sun Jun 12 19:31:10 2016
+MC has reached at node:  95.0 , Time taken:  0.0920446751432
+16  recharged! , Battery:  18720.0  :  Sun Jun 12 19:31:11 2016
+Total number of dead nodes:  1
+MC starting to move from :  127.0 55.0  :  Sun Jun 12 19:31:22 2016
+MC has reached at node:  82.0 , Time taken:  0.0728868986856
+95  recharged! , Battery:  18720.0  :  Sun Jun 12 19:31:23 2016
+Total number of dead nodes:  1
+MC starting to move from :  142.0 64.0  :  Sun Jun 12 19:31:34 2016
+82  recharged! , Battery:  18720.0  :  Sun Jun 12 19:31:35 2016
+MC has reached at node:  105.0 , Time taken:  0.20275875101
+Total number of dead nodes:  1
+MC starting to move from :  190.0 72.0  :  Sun Jun 12 19:31:47 2016
+105  recharged! , Battery:  18720.0  :  Sun Jun 12 19:31:47 2016
+MC has reached at node:  124.0 , Time taken:  0.395504249169
+124  recharged! , Battery:  18720.0  :  Sun Jun 12 19:32:00 2016
+Emergency request from  29  :  Sun Jun 12 19:35:54 2016
+Total number of dead nodes:  1
+MC starting to move from :  97.0 91.0  :  Sun Jun 12 19:35:54 2016
+MC has reached at node:  29.0 , Time taken:  0.370856740834
+Emergency request from  22  :  Sun Jun 12 19:36:05 2016
+Total distance covered:  9563.2843497  @  Sun Jun 12 19:36:07 2016
+MC is returning to base!
+29  recharged! , Battery:  18720.0  :  Sun Jun 12 19:36:07 2016
+Emergency request from  73  :  Sun Jun 12 19:36:35 2016
+Emergency request from  64  :  Sun Jun 12 19:36:44 2016
+Emergency request from  98  :  Sun Jun 12 19:36:57 2016
+Emergency request from  47  :  Sun Jun 12 19:37:10 2016
+Emergency request from  34  :  Sun Jun 12 19:37:24 2016
+Emergency request from  17  :  Sun Jun 12 19:37:34 2016
+MC is fresh again. Battery Status:  40000  at:  0 0
+Total number of dead nodes:  1
+MC starting to move from :  0 0  :  Sun Jun 12 19:38:48 2016
+MC has reached at node:  73.0 , Time taken:  0.490128242855
+Total number of dead nodes:  1
+MC starting to move from :  106.0 51.0  :  Sun Jun 12 19:39:00 2016
+MC has reached at node:  64.0 , Time taken:  0.0303337912053
+73  recharged! , Battery:  18720.0  :  Sun Jun 12 19:39:01 2016
+Total number of dead nodes:  1
+MC starting to move from :  108.0 58.0  :  Sun Jun 12 19:39:12 2016
+MC has reached at node:  98.0 , Time taken:  0.0522081836923
+64  recharged! , Battery:  18720.0  :  Sun Jun 12 19:39:13 2016
+Total number of dead nodes:  1
+MC starting to move from :  119.0 52.0  :  Sun Jun 12 19:39:24 2016
+MC has reached at node:  47.0 , Time taken:  0.0630531081268
+98  recharged! , Battery:  18720.0  :  Sun Jun 12 19:39:25 2016
+Total number of dead nodes:  1
+MC starting to move from :  117.0 37.0  :  Sun Jun 12 19:39:36 2016
+MC has reached at node:  34.0 , Time taken:  0.0804716996493
+47  recharged! , Battery:  18720.0  :  Sun Jun 12 19:39:37 2016
+Total number of dead nodes:  1
+MC starting to move from :  124.0 19.0  :  Sun Jun 12 19:39:48 2016
+MC has reached at node:  17.0 , Time taken:  0.104416367385
+34  recharged! , Battery:  18720.0  :  Sun Jun 12 19:39:49 2016
+Total distance covered:  9906.39879589  @  Sun Jun 12 19:40:01 2016
+MC is returning to base!
+17  recharged! , Battery:  18720.0  :  Sun Jun 12 19:40:01 2016
+Emergency request from  121  :  Sun Jun 12 19:40:15 2016
+Emergency request from  69  :  Sun Jun 12 19:40:53 2016
+Emergency request from  46  :  Sun Jun 12 19:41:03 2016
+MC is fresh again. Battery Status:  40000  at:  0 0
+Total number of dead nodes:  1
+MC starting to move from :  0 0  :  Sun Jun 12 19:42:30 2016
+MC has reached at node:  121.0 , Time taken:  0.56311694562
+Total number of dead nodes:  1
+MC starting to move from :  99.0 92.0  :  Sun Jun 12 19:42:42 2016
+MC has reached at node:  69.0 , Time taken:  0.104249966693
+121  recharged! , Battery:  18720.0  :  Sun Jun 12 19:42:43 2016
+Total number of dead nodes:  1
+MC starting to move from :  124.0 93.0  :  Sun Jun 12 19:42:54 2016
+MC has reached at node:  46.0 , Time taken:  0.075
+69  recharged! , Battery:  18720.0  :  Sun Jun 12 19:42:55 2016
+Total number of dead nodes:  1
+MC starting to move from :  142.0 93.0  :  Sun Jun 12 19:43:06 2016
+MC has reached at node:  22.0 , Time taken:  0.225616439511
+46  recharged! , Battery:  18720.0  :  Sun Jun 12 19:43:07 2016
+Emergency request from  55  :  Sun Jun 12 19:43:16 2016
+Total number of dead nodes:  1
+MC starting to move from :  196.0 89.0  :  Sun Jun 12 19:43:19 2016
+MC has reached at node:  55.0 , Time taken:  0.14872140248
+22  recharged! , Battery:  18720.0  :  Sun Jun 12 19:43:19 2016
+55  recharged! , Battery:  18720.0  :  Sun Jun 12 19:43:31 2016
+Emergency request from  70  :  Sun Jun 12 19:44:00 2016
+Total number of dead nodes:  1
+MC starting to move from :  189.0 54.0  :  Sun Jun 12 19:44:00 2016
+Emergency request from  108  :  Sun Jun 12 19:44:00 2016
+MC has reached at node:  70.0 , Time taken:  0.247837872633
+Total distance covered:  10383.7723143  @  Sun Jun 12 19:44:13 2016
+MC is returning to base!
+70  recharged! , Battery:  18720.0  :  Sun Jun 12 19:44:13 2016
+Emergency request from  81  :  Sun Jun 12 19:44:21 2016
+Emergency request from  113  :  Sun Jun 12 19:44:41 2016
+MC is fresh again. Battery Status:  40000  at:  0 0
+Total number of dead nodes:  1
+MC starting to move from :  0 0  :  Sun Jun 12 19:46:42 2016
+MC has reached at node:  113.0 , Time taken:  0.679371134866
+Total number of dead nodes:  1
+MC starting to move from :  157.0 44.0  :  Sun Jun 12 19:46:54 2016
+MC has reached at node:  81.0 , Time taken:  0.0317323879411
+113  recharged! , Battery:  18720.0  :  Sun Jun 12 19:46:55 2016
+Dead nodes list: 
+ [88, 9]
+Total number of dead nodes:  2
+MC starting to move from :  160.0 51.0  :  Sun Jun 12 19:47:06 2016
+MC has reached at node:  108.0 , Time taken:  0.189388636289
+81  recharged! , Battery:  18720.0  :  Sun Jun 12 19:47:07 2016
+Dead nodes list: 
+ [88, 9, 91]
+Emergency request from  99  :  Sun Jun 12 19:47:18 2016
+Total number of dead nodes:  3
+MC starting to move from :  195.0 22.0  :  Sun Jun 12 19:47:18 2016
+108  recharged! , Battery:  18720.0  :  Sun Jun 12 19:47:18 2016
+MC has reached at node:  99.0 , Time taken:  0.0667967480912
+99  recharged! , Battery:  18720.0  :  Sun Jun 12 19:47:31 2016
+Emergency request from  2  :  Sun Jun 12 19:47:31 2016
+Total number of dead nodes:  3
+MC starting to move from :  196.0 6.0  :  Sun Jun 12 19:47:32 2016
+MC has reached at node:  2.0 , Time taken:  0.0279508497187
+2  recharged! , Battery:  18720.0  :  Sun Jun 12 19:47:45 2016
+Emergency request from  7  :  Sun Jun 12 19:47:59 2016
+Total number of dead nodes:  3
+MC starting to move from :  199.0 0.0  :  Sun Jun 12 19:47:59 2016
+MC has reached at node:  7.0 , Time taken:  0.275913885519
+Total distance covered:  10841.4598041  @  Sun Jun 12 19:48:11 2016
+MC is returning to base!
+7  recharged! , Battery:  18720.0  :  Sun Jun 12 19:48:12 2016
+Emergency request from  33  :  Sun Jun 12 19:48:22 2016
+Dead nodes list: 
+ [88, 9, 91, 11]
+Dead nodes list: 
+ [88, 9, 91, 11, 100]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93]
+MC is fresh again. Battery Status:  40000  at:  0 0
+Total number of dead nodes:  7
+MC starting to move from :  0 0  :  Sun Jun 12 19:50:41 2016
+MC has reached at node:  33.0 , Time taken:  0.810360430782
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85]
+33  recharged! , Battery:  18720.0  :  Sun Jun 12 19:50:54 2016
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42]
+Emergency request from  56  :  Sun Jun 12 20:03:45 2016
+Total number of dead nodes:  13
+MC starting to move from :  192.0 31.0  :  Sun Jun 12 20:03:45 2016
+MC has reached at node:  56.0 , Time taken:  0.159208109788
+56  recharged! , Battery:  18720.0  :  Sun Jun 12 20:03:58 2016
+Emergency request from  53  :  Sun Jun 12 20:03:59 2016
+Total number of dead nodes:  13
+MC starting to move from :  196.0 69.0  :  Sun Jun 12 20:03:59 2016
+MC has reached at node:  53.0 , Time taken:  0.0224381866964
+53  recharged! , Battery:  18720.0  :  Sun Jun 12 20:04:12 2016
+Emergency request from  19  :  Sun Jun 12 20:07:23 2016
+Total number of dead nodes:  13
+MC starting to move from :  198.0 74.0  :  Sun Jun 12 20:07:23 2016
+MC has reached at node:  19.0 , Time taken:  0.0786165094338
+Emergency request from  72  :  Sun Jun 12 20:07:33 2016
+Total number of dead nodes:  13
+MC starting to move from :  188.0 58.0  :  Sun Jun 12 20:07:36 2016
+MC has reached at node:  72.0 , Time taken:  0.0343592135468
+19  recharged! , Battery:  18720.0  :  Sun Jun 12 20:07:37 2016
+Emergency request from  12  :  Sun Jun 12 20:07:45 2016
+Total number of dead nodes:  13
+MC starting to move from :  196.0 60.0  :  Sun Jun 12 20:07:48 2016
+MC has reached at node:  12.0 , Time taken:  0.0687184270936
+72  recharged! , Battery:  18720.0  :  Sun Jun 12 20:07:48 2016
+Total distance covered:  11320.1251707  @  Sun Jun 12 20:08:00 2016
+MC is returning to base!
+12  recharged! , Battery:  18720.0  :  Sun Jun 12 20:08:00 2016
+MC is fresh again. Battery Status:  40000  at:  0 0
+Emergency request from  74  :  Sun Jun 12 20:10:49 2016
+Total number of dead nodes:  13
+MC starting to move from :  0 0  :  Sun Jun 12 20:10:49 2016
+MC has reached at node:  74.0 , Time taken:  0.789976265466
+Emergency request from  76  :  Sun Jun 12 20:11:02 2016
+Total number of dead nodes:  13
+MC starting to move from :  189.0 15.0  :  Sun Jun 12 20:11:02 2016
+MC has reached at node:  76.0 , Time taken:  0.0393082547169
+74  recharged! , Battery:  18720.0  :  Sun Jun 12 20:11:03 2016
+76  recharged! , Battery:  18720.0  :  Sun Jun 12 20:11:15 2016
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114, 1]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114, 1, 65]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114, 1, 65, 20]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114, 1, 65, 20, 40]
+Emergency request from  106  :  Sun Jun 12 20:38:50 2016
+Total number of dead nodes:  26
+MC starting to move from :  197.0 20.0  :  Sun Jun 12 20:38:50 2016
+MC has reached at node:  106.0 , Time taken:  0.402875945891
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114, 1, 65, 20, 40, 117]
+Emergency request from  5  :  Sun Jun 12 20:38:58 2016
+Total number of dead nodes:  27
+MC starting to move from :  102.0 2.0  :  Sun Jun 12 20:39:03 2016
+MC has reached at node:  5.0 , Time taken:  0.0636014063436
+106  recharged! , Battery:  18720.0  :  Sun Jun 12 20:39:03 2016
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114, 1, 65, 20, 40, 117, 62]
+Emergency request from  45  :  Sun Jun 12 20:39:13 2016
+Total number of dead nodes:  28
+MC starting to move from :  115.0 10.0  :  Sun Jun 12 20:39:15 2016
+MC has reached at node:  45.0 , Time taken:  0.0515388203202
+5  recharged! , Battery:  18720.0  :  Sun Jun 12 20:39:15 2016
+Emergency request from  6  :  Sun Jun 12 20:39:23 2016
+Total number of dead nodes:  28
+MC starting to move from :  127.0 13.0  :  Sun Jun 12 20:39:27 2016
+45  recharged! , Battery:  18720.0  :  Sun Jun 12 20:39:27 2016
+MC has reached at node:  6.0 , Time taken:  0.0834374349771
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114, 1, 65, 20, 40, 117, 62, 13]
+Emergency request from  83  :  Sun Jun 12 20:39:37 2016
+Total distance covered:  11810.991304  @  Sun Jun 12 20:39:39 2016
+MC is returning to base!
+6  recharged! , Battery:  18720.0  :  Sun Jun 12 20:39:39 2016
+Emergency request from  44  :  Sun Jun 12 20:39:51 2016
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114, 1, 65, 20, 40, 117, 62, 13, 39]
+MC is fresh again. Battery Status:  40000  at:  0 0
+Total number of dead nodes:  30
+MC starting to move from :  0 0  :  Sun Jun 12 20:42:08 2016
+MC has reached at node:  44.0 , Time taken:  0.616962203957
+Total number of dead nodes:  30
+MC starting to move from :  145.0 30.0  :  Sun Jun 12 20:42:21 2016
+MC has reached at node:  83.0 , Time taken:  0.0867027168612
+44  recharged! , Battery:  18720.0  :  Sun Jun 12 20:42:21 2016
+Emergency request from  96  :  Sun Jun 12 20:42:30 2016
+Total number of dead nodes:  30
+MC starting to move from :  157.0 13.0  :  Sun Jun 12 20:42:33 2016
+MC has reached at node:  96.0 , Time taken:  0.257255817341
+83  recharged! , Battery:  18720.0  :  Sun Jun 12 20:42:34 2016
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114, 1, 65, 20, 40, 117, 62, 13, 39, 38]
+Emergency request from  112  :  Sun Jun 12 20:42:42 2016
+Total number of dead nodes:  31
+MC starting to move from :  101.0 39.0  :  Sun Jun 12 20:42:45 2016
+MC has reached at node:  112.0 , Time taken:  0.0300462606289
+96  recharged! , Battery:  18720.0  :  Sun Jun 12 20:42:46 2016
+Emergency request from  30  :  Sun Jun 12 20:42:53 2016
+Total number of dead nodes:  31
+MC starting to move from :  105.0 33.0  :  Sun Jun 12 20:42:57 2016
+MC has reached at node:  30.0 , Time taken:  0.0458333333333
+112  recharged! , Battery:  18720.0  :  Sun Jun 12 20:42:58 2016
+Emergency request from  59  :  Sun Jun 12 20:43:04 2016
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114, 1, 65, 20, 40, 117, 62, 13, 39, 38, 21]
+Total number of dead nodes:  32
+MC starting to move from :  116.0 33.0  :  Sun Jun 12 20:43:09 2016
+MC has reached at node:  59.0 , Time taken:  0.00931694990625
+30  recharged! , Battery:  18720.0  :  Sun Jun 12 20:43:10 2016
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114, 1, 65, 20, 40, 117, 62, 13, 39, 38, 21, 75]
+Emergency request from  10  :  Sun Jun 12 20:43:18 2016
+Total distance covered:  12183.096636  @  Sun Jun 12 20:43:21 2016
+MC is returning to base!
+59  recharged! , Battery:  18720.0  :  Sun Jun 12 20:43:22 2016
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114, 1, 65, 20, 40, 117, 62, 13, 39, 38, 21, 75, 58]
+Emergency request from  63  :  Sun Jun 12 20:43:32 2016
+MC is fresh again. Battery Status:  40000  at:  0 0
+Total number of dead nodes:  34
+MC starting to move from :  0 0  :  Sun Jun 12 20:45:45 2016
+MC has reached at node:  10.0 , Time taken:  0.656511191408
+Total number of dead nodes:  34
+MC starting to move from :  151.0 45.0  :  Sun Jun 12 20:45:58 2016
+MC has reached at node:  63.0 , Time taken:  0.0384147685721
+10  recharged! , Battery:  18720.0  :  Sun Jun 12 20:45:58 2016
+63  recharged! , Battery:  18720.0  :  Sun Jun 12 20:46:10 2016
+Emergency request from  92  :  Sun Jun 12 20:46:15 2016
+Total number of dead nodes:  34
+MC starting to move from :  158.0 39.0  :  Sun Jun 12 20:46:15 2016
+MC has reached at node:  92.0 , Time taken:  0.23691448293
+Emergency request from  71  :  Sun Jun 12 20:46:24 2016
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114, 1, 65, 20, 40, 117, 62, 13, 39, 38, 21, 75, 58, 67]
+Total number of dead nodes:  35
+MC starting to move from :  126.0 86.0  :  Sun Jun 12 20:46:28 2016
+MC has reached at node:  71.0 , Time taken:  0.0384147685721
+92  recharged! , Battery:  18720.0  :  Sun Jun 12 20:46:28 2016
+Emergency request from  60  :  Sun Jun 12 20:46:37 2016
+Total number of dead nodes:  35
+MC starting to move from :  133.0 92.0  :  Sun Jun 12 20:46:40 2016
+71  recharged! , Battery:  18720.0  :  Sun Jun 12 20:46:40 2016
+MC has reached at node:  60.0 , Time taken:  0.0708333333333
+60  recharged! , Battery:  18720.0  :  Sun Jun 12 20:46:52 2016
+Emergency request from  54  :  Sun Jun 12 20:50:12 2016
+Total number of dead nodes:  35
+MC starting to move from :  148.0 84.0  :  Sun Jun 12 20:50:12 2016
+MC has reached at node:  54.0 , Time taken:  0.0527046276695
+Total distance covered:  12624.4924356  @  Sun Jun 12 20:50:24 2016
+MC is returning to base!
+54  recharged! , Battery:  18720.0  :  Sun Jun 12 20:50:25 2016
+Emergency request from  111  :  Sun Jun 12 20:50:25 2016
+Emergency request from  3  :  Sun Jun 12 20:50:34 2016
+Emergency request from  57  :  Sun Jun 12 20:50:47 2016
+MC is fresh again. Battery Status:  40000  at:  0 0
+Total number of dead nodes:  35
+MC starting to move from :  0 0  :  Sun Jun 12 20:52:59 2016
+MC has reached at node:  111.0 , Time taken:  0.74761193885
+Total number of dead nodes:  35
+MC starting to move from :  163.0 75.0  :  Sun Jun 12 20:53:12 2016
+MC has reached at node:  3.0 , Time taken:  0.0475073093791
+111  recharged! , Battery:  18720.0  :  Sun Jun 12 20:53:12 2016
+Total number of dead nodes:  35
+MC starting to move from :  174.0 78.0  :  Sun Jun 12 20:53:24 2016
+MC has reached at node:  57.0 , Time taken:  0.0527046276695
+3  recharged! , Battery:  18720.0  :  Sun Jun 12 20:53:24 2016
+57  recharged! , Battery:  18720.0  :  Sun Jun 12 20:53:36 2016
+Emergency request from  15  :  Sun Jun 12 20:54:09 2016
+Total number of dead nodes:  35
+MC starting to move from :  186.0 74.0  :  Sun Jun 12 20:54:09 2016
+MC has reached at node:  15.0 , Time taken:  0.110318352457
+15  recharged! , Battery:  18720.0  :  Sun Jun 12 20:54:22 2016
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114, 1, 65, 20, 40, 117, 62, 13, 39, 38, 21, 75, 58, 67, 29]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114, 1, 65, 20, 40, 117, 62, 13, 39, 38, 21, 75, 58, 67, 29, 22]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114, 1, 65, 20, 40, 117, 62, 13, 39, 38, 21, 75, 58, 67, 29, 22, 55]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114, 1, 65, 20, 40, 117, 62, 13, 39, 38, 21, 75, 58, 67, 29, 22, 55, 108]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114, 1, 65, 20, 40, 117, 62, 13, 39, 38, 21, 75, 58, 67, 29, 22, 55, 108, 99]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114, 1, 65, 20, 40, 117, 62, 13, 39, 38, 21, 75, 58, 67, 29, 22, 55, 108, 99, 2]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114, 1, 65, 20, 40, 117, 62, 13, 39, 38, 21, 75, 58, 67, 29, 22, 55, 108, 99, 2, 73]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114, 1, 65, 20, 40, 117, 62, 13, 39, 38, 21, 75, 58, 67, 29, 22, 55, 108, 99, 2, 73, 64]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114, 1, 65, 20, 40, 117, 62, 13, 39, 38, 21, 75, 58, 67, 29, 22, 55, 108, 99, 2, 73, 64, 98]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114, 1, 65, 20, 40, 117, 62, 13, 39, 38, 21, 75, 58, 67, 29, 22, 55, 108, 99, 2, 73, 64, 98, 47]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114, 1, 65, 20, 40, 117, 62, 13, 39, 38, 21, 75, 58, 67, 29, 22, 55, 108, 99, 2, 73, 64, 98, 47, 34]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114, 1, 65, 20, 40, 117, 62, 13, 39, 38, 21, 75, 58, 67, 29, 22, 55, 108, 99, 2, 73, 64, 98, 47, 34, 17]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114, 1, 65, 20, 40, 117, 62, 13, 39, 38, 21, 75, 58, 67, 29, 22, 55, 108, 99, 2, 73, 64, 98, 47, 34, 17, 121]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114, 1, 65, 20, 40, 117, 62, 13, 39, 38, 21, 75, 58, 67, 29, 22, 55, 108, 99, 2, 73, 64, 98, 47, 34, 17, 121, 69]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114, 1, 65, 20, 40, 117, 62, 13, 39, 38, 21, 75, 58, 67, 29, 22, 55, 108, 99, 2, 73, 64, 98, 47, 34, 17, 121, 69, 46]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114, 1, 65, 20, 40, 117, 62, 13, 39, 38, 21, 75, 58, 67, 29, 22, 55, 108, 99, 2, 73, 64, 98, 47, 34, 17, 121, 69, 46, 70]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114, 1, 65, 20, 40, 117, 62, 13, 39, 38, 21, 75, 58, 67, 29, 22, 55, 108, 99, 2, 73, 64, 98, 47, 34, 17, 121, 69, 46, 70, 113]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114, 1, 65, 20, 40, 117, 62, 13, 39, 38, 21, 75, 58, 67, 29, 22, 55, 108, 99, 2, 73, 64, 98, 47, 34, 17, 121, 69, 46, 70, 113, 81]
+Dead nodes list: 
+ [88, 9, 91, 11, 100, 61, 93, 85, 122, 115, 104, 77, 42, 120, 109, 89, 103, 87, 26, 68, 50, 114, 1, 65, 20, 40, 117, 62, 13, 39, 38, 21, 75, 58, 67, 29, 22, 55, 108, 99, 2, 73, 64, 98, 47, 34, 17, 121, 69, 46, 70, 113, 81, 7]
